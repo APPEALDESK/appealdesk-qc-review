@@ -1,0 +1,109 @@
+{
+  "orderId": "8a94d293-7aea-47a0-a42b-19543dad8ebe",
+  "address": "8120 Milo Fields Ln, Mckinney, TX 75071",
+  "county": "Collin",
+  "state": "TX",
+  "status": "completed",
+  "recommendation": "APPEAL",
+  "packetType": "full",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 1.25,
+      "quantarium": 0.85
+    },
+    "medianPsf": 210,
+    "packetType": "full",
+    "searchTier": "BEST_AVAILABLE",
+    "_dataSource": "reapi+quantarium",
+    "avmEstimate": 439493,
+    "avmRangeLow": 395544,
+    "marketValue": 439493,
+    "medianPrice": 475000,
+    "avmRangeHigh": 483442,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 100,
+        "searchedRatio": 100,
+        "registrySource": "https://comptroller.texas.gov/taxes/property-tax/",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "APPEAL",
+      "assessmentRatio": 1,
+      "countyAppraisedValue": 593304,
+      "marketValueFromComps": 439493,
+      "overassessmentAmount": 153811,
+      "potentialAnnualSavings": 1697
+    },
+    "assessedValue": 593304,
+    "confidenceGate": {
+      "gates": [],
+      "passed": true,
+      "reason": "All confidence checks passed",
+      "confidence": "HIGH",
+      "gateAction": "PROCEED",
+      "warningCount": 0,
+      "criticalCount": 0
+    },
+    "isOverassessed": true,
+    "searchMetadata": {
+      "tierName": "BEST_AVAILABLE",
+      "compsFound": 13,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 0.6,
+      "confidenceGate": {
+        "gates": [],
+        "passed": true,
+        "reason": "All confidence checks passed",
+        "confidence": "HIGH",
+        "gateAction": "PROCEED",
+        "warningCount": 0,
+        "criticalCount": 0
+      },
+      "monthsSearched": 24,
+      "dataQualityNote": "REAPI comps supplemented with 11 Quantarium comps.",
+      "outliersRemoved": 0,
+      "tierDescription": "Widest search for any comparable data",
+      "isExpandedSearch": true
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "none",
+    "impliedFairValue": 439493,
+    "_quantariumCalled": true,
+    "medianPricePerSqft": 210,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 593304,
+    "overassessmentAmount": 153811,
+    "_quantariumCompsAdded": 11,
+    "valuationPricePerSqft": 188,
+    "potentialAnnualSavings": 1697
+  },
+  "assessment": {
+    "year": 2025,
+    "history": {},
+    "_provider": "reapi",
+    "annualTax": 6545.16,
+    "landValue": 150000,
+    "taxHistory": {},
+    "totalValue": 593304,
+    "_rawAssessedValue": 593304,
+    "countyMarketValue": 593304,
+    "improvementsValue": 443304,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 593304
+  },
+  "compsCount": 13,
+  "docUrls": {
+    "coverLetter": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/8a94d293-7aea-47a0-a42b-19543dad8ebe/3_ATTACH_TO_APPEAL_Cover_Letter.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzhhOTRkMjkzLTdhZWEtNDdhMC1hNDJiLTE5NTQzZGFkOGViZS8zX0FUVEFDSF9UT19BUFBFQUxfQ292ZXJfTGV0dGVyLnBkZiIsImlhdCI6MTc3MjczODgxNCwiZXhwIjoxNzc1MzMwODE0fQ.2vAw4GDo15X6ZethbIrR9a-WnFpxGHxKsmqm_ZkBU78",
+    "filingGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/8a94d293-7aea-47a0-a42b-19543dad8ebe/1_READ_FIRST_Your_Filing_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzhhOTRkMjkzLTdhZWEtNDdhMC1hNDJiLTE5NTQzZGFkOGViZS8xX1JFQURfRklSU1RfWW91cl9GaWxpbmdfR3VpZGUucGRmIiwiaWF0IjoxNzcyNzM4ODE0LCJleHAiOjE3NzUzMzA4MTR9.PP2pVNcfIlKl0TfYV8vWNpC5qXLorgEr2xLsmf3fUTg",
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/8a94d293-7aea-47a0-a42b-19543dad8ebe/5_BONUS_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzhhOTRkMjkzLTdhZWEtNDdhMC1hNDJiLTE5NTQzZGFkOGViZS81X0JPTlVTX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3MjczODgxNCwiZXhwIjoxNzc1MzMwODE0fQ.BmvwVq5VGvjUcNK-wDMdtm64zsFfxP4shXwIb9kroJw",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/8a94d293-7aea-47a0-a42b-19543dad8ebe/2_ATTACH_TO_APPEAL_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzhhOTRkMjkzLTdhZWEtNDdhMC1hNDJiLTE5NTQzZGFkOGViZS8yX0FUVEFDSF9UT19BUFBFQUxfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3MjczODgxNSwiZXhwIjoxNzc1MzMwODE1fQ.W4uCZe9ZQFUJX8UMJ_CcaYEfyVV0YKjOjWy8zUG03QY"
+  },
+  "generationTimeMs": 47503
+}

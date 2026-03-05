@@ -1,148 +1,140 @@
-# AppealDesk Batch50 Review -- 2026-03-04T23:41:44.344Z
+# AppealDesk Batch50 Review -- 2026-03-05T19:53:08.874Z
 
 ## Summary Stats
-- Total addresses tested: 50
-- Successful full packets: 21 (42%)
-- Lite packets: 4 (8%)
-- DO_NOT_APPEAL: 18 (36%)
-- Refunded (commercial/insufficient): 2 (4%)
-- Failures: 5 (10%)
+- Total addresses tested: 49
+- Successful full packets: 12 (24%)
+- Lite packets: 3 (6%)
+- DO_NOT_APPEAL: 14 (29%)
+- Refunded (commercial/insufficient): 19 (39%)
+- Failures: 1 (2%)
 
 ## States Covered
 
 | State | Count | Outcomes |
 |-------|-------|----------|
-| AK | 1 | DO_NOT_APPEAL |
-| AL | 1 | SUCCESS |
+| AK | 1 | SUCCESS |
+| AL | 1 | DO_NOT_APPEAL |
 | AR | 1 | DO_NOT_APPEAL |
-| AZ | 1 | SUCCESS |
+| AZ | 1 | FAILED |
 | CA | 1 | DO_NOT_APPEAL |
-| CO | 1 | FAILED |
-| CT | 1 | FAILED |
-| DC | 1 | SUCCESS |
-| DE | 1 | SUCCESS |
-| FL | 1 | DO_NOT_APPEAL |
-| GA | 1 | REFUND_INSUFFICIENT_DATA |
-| HI | 1 | FAILED |
+| CO | 1 | REFUND_COMMERCIAL |
+| CT | 1 | REFUND_INSUFFICIENT_DATA |
+| DE | 1 | REFUND_INSUFFICIENT_DATA |
+| FL | 1 | SUCCESS |
+| GA | 1 | SUCCESS |
+| HI | 1 | SUCCESS |
 | IA | 1 | SUCCESS |
-| ID | 1 | DO_NOT_APPEAL |
+| ID | 1 | SUCCESS |
 | IL | 1 | DO_NOT_APPEAL |
 | IN | 1 | DO_NOT_APPEAL |
-| KS | 1 | FAILED |
-| KY | 1 | DO_NOT_APPEAL |
-| LA | 1 | LITE_PACKET |
+| KS | 1 | LITE_PACKET |
+| KY | 1 | REFUND_INSUFFICIENT_DATA |
+| LA | 1 | DO_NOT_APPEAL |
 | MA | 1 | DO_NOT_APPEAL |
-| MD | 1 | DO_NOT_APPEAL |
-| ME | 1 | SUCCESS |
-| MI | 1 | SUCCESS |
-| MN | 1 | SUCCESS |
-| MO | 1 | SUCCESS |
-| MS | 1 | DO_NOT_APPEAL |
-| NC | 1 | DO_NOT_APPEAL |
-| ND | 1 | SUCCESS |
+| MD | 1 | REFUND_INSUFFICIENT_DATA |
+| MI | 1 | DO_NOT_APPEAL |
+| MN | 1 | REFUND_INSUFFICIENT_DATA |
+| MO | 1 | REFUND_INSUFFICIENT_DATA |
+| MS | 1 | REFUND_INSUFFICIENT_DATA |
+| MT | 1 | SUCCESS |
+| NC | 1 | REFUND_INSUFFICIENT_DATA |
+| ND | 1 | REFUND_COMMERCIAL |
 | NE | 1 | SUCCESS |
 | NH | 1 | DO_NOT_APPEAL |
-| NJ | 1 | DO_NOT_APPEAL |
-| NM | 1 | SUCCESS |
-| NV | 1 | SUCCESS |
-| NY | 1 | LITE_PACKET |
-| OH | 1 | DO_NOT_APPEAL |
-| OK | 1 | DO_NOT_APPEAL |
-| OR | 1 | LITE_PACKET |
-| PA | 1 | SUCCESS |
-| RI | 1 | SUCCESS |
-| SC | 1 | FAILED |
-| SD | 1 | LITE_PACKET |
-| TN | 1 | DO_NOT_APPEAL |
+| NJ | 1 | REFUND_INSUFFICIENT_DATA |
+| NM | 1 | DO_NOT_APPEAL |
+| NV | 1 | DO_NOT_APPEAL |
+| NY | 1 | SUCCESS |
+| OH | 1 | REFUND_INSUFFICIENT_DATA |
+| OK | 1 | REFUND_INSUFFICIENT_DATA |
+| OR | 1 | REFUND_INSUFFICIENT_DATA |
+| PA | 1 | REFUND_INSUFFICIENT_DATA |
+| RI | 1 | DO_NOT_APPEAL |
+| SC | 1 | LITE_PACKET |
+| SD | 1 | REFUND_INSUFFICIENT_DATA |
+| TN | 1 | REFUND_INSUFFICIENT_DATA |
 | TX | 1 | SUCCESS |
-| UT | 1 | SUCCESS |
-| VA | 1 | DO_NOT_APPEAL |
+| UT | 1 | REFUND_INSUFFICIENT_DATA |
+| VA | 1 | REFUND_INSUFFICIENT_DATA |
 | VT | 1 | SUCCESS |
-| WA | 1 | SUCCESS |
-| WI | 1 | SUCCESS |
+| WA | 1 | DO_NOT_APPEAL |
+| WI | 1 | DO_NOT_APPEAL |
 | WV | 1 | SUCCESS |
-| WY | 1 | REFUND_INSUFFICIENT_DATA |
+| WY | 1 | LITE_PACKET |
 
 ## Recommendation Distribution
 
 | Recommendation | Count | Avg Savings | Avg Comps |
 |----------------|-------|-------------|-----------|
-| APPEAL | 24 | $878 | 4.8 |
-| CONSIDER_APPEAL | 1 | $0 | 9.0 |
-| DO_NOT_APPEAL | 18 | $0 | 6.3 |
-| N/A | 7 | $0 | 0.0 |
+| APPEAL | 15 | $547 | 7.0 |
+| DO_NOT_APPEAL | 14 | $0 | 10.5 |
+| N/A | 20 | $0 | 0.0 |
 
 ## Data Provider Usage
-- REAPI only: 36
-- Quantarium fallback used: 14
+- REAPI only: 32
+- Quantarium fallback used: 17
 
 ## Cost Estimate
-- Total API cost: ~$56.05
-- Avg per order: ~$1.12
+- Total API cost: ~$53.00
+- Avg per order: ~$1.08
 
 ## Orders Requiring Human Review
 
-- **[1] 347 Floyd Page Rd, Aynor, SC 29544** (SC) -- FAILED: packetType=full
-- **[5] 250 E 54Th St, New York, NY 10022** (NY) -- LITE_PACKET: packetType=lite
-- **[9] 1800 Blue Mountain Ave, Berthoud, CO 80513** (CO) -- FAILED: packetType=full
-- **[23] 2903 Twin Lakes Ct, Emporia, KS 66801** (KS) -- FAILED: packetType=full
-- **[24] 1436 Se Spokane St, Portland, OR 97202** (OR) -- LITE_PACKET: packetType=lite
-- **[33] 237 Dorchester Ave, Box Elder, SD 57719** (SD) -- LITE_PACKET: packetType=lite
-- **[36] 294 Hapapa Rd, Kula, HI 96790** (HI) -- FAILED: Supabase upload failed: Upload failed: fetch failed
-- **[37] 17 Walnut Ave, Norwalk, CT 06851** (CT) -- FAILED: packetType=full
-- **[40] 668 Midway Church Ln, Delhi, LA 71232** (LA) -- LITE_PACKET: packetType=lite
+- **[1] 697 Patty Rd, Cades, SC 29518** (SC) -- LITE_PACKET: packetType=lite
+- **[13] 7219 N 83Rd Ave, Glendale, AZ 85303** (AZ) -- FAILED: packetType=full
+- **[22] 305 W Mary St, Garden City, KS 67846** (KS) -- LITE_PACKET: packetType=lite
+- **[38] 1300 N Star Loop, Cheyenne, WY 82009** (WY) -- LITE_PACKET: packetType=lite
 
 ## Index
 
 | # | Address | State | Recommendation | Packet Type | Savings | Outcome |
 |---|---------|-------|----------------|-------------|---------|---------|
-| 1 | 347 Floyd Page Rd, Aynor, SC 29544 | SC | -- | full | -- | FAILED |
-| 2 | 7455 Prestwick Cir, Beaumont, TX 77707 | TX | APPEAL | full | $1,159 | SUCCESS |
-| 3 | 17063 Nile Lily Way, Fontana, CA 92337 | CA | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
-| 4 | 710 Wicker Ave, Streamwood, IL 60107 | IL | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
-| 5 | 250 E 54Th St, New York, NY 10022 | NY | APPEAL | lite | -- | LITE_PACKET |
-| 6 | 11 Fernmill Ln, Palm Coast, FL 32137 | FL | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
-| 7 | 4867 Ashford Dunwoody Rd, Alpharetta, GA 30022 | GA | -- | full | -- | REFUND_INSUFFICIENT_DATA |
-| 8 | 7014 Tartan Dr, Brentwood, TN 37027 | TN | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
-| 9 | 1800 Blue Mountain Ave, Berthoud, CO 80513 | CO | -- | full | -- | FAILED |
-| 10 | 3055 17Th St Se, Auburn, WA 98092 | WA | CONSIDER_APPEAL | full | -- | SUCCESS |
-| 11 | 486 Faber St, Pickerington, OH 43147 | OH | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
-| 12 | 1166 Needleleaf Dr, Winnabow, NC 28479 | NC | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
-| 13 | 1521 W Cypress St, Tucson, AZ 85704 | AZ | APPEAL | full | $1,023 | SUCCESS |
-| 14 | 5637 Midnight Breeze St, North Las Vegas, NV 89081 | NV | APPEAL | full | $384 | SUCCESS |
-| 15 | 26483 W Timberhill Rd, Zimmerman, MN 55398 | MN | APPEAL | full | $714 | SUCCESS |
-| 16 | 421 Bruce Larson Way, Somerset, WI 54025 | WI | APPEAL | full | $421 | SUCCESS |
-| 17 | 36353 Dickson Dr, Sterling Heights, MI 48310 | MI | APPEAL | full | $1,564 | SUCCESS |
-| 18 | 1608 Prentis Ave, Portsmouth, VA 23704 | VA | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
-| 19 | 1122 Hall St, Philadelphia, PA 19147 | PA | APPEAL | full | $4,199 | SUCCESS |
-| 20 | 100 Fleetwood Ave, Mount Laurel, NJ 08054 | NJ | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
-| 21 | 3239 Nw 27Th Cir, Ankeny, IA 50023 | IA | APPEAL | full | $532 | SUCCESS |
-| 22 | 4832 Dresden Way, Lexington, KY 40514 | KY | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
-| 23 | 2903 Twin Lakes Ct, Emporia, KS 66801 | KS | -- | full | -- | FAILED |
-| 24 | 1436 Se Spokane St, Portland, OR 97202 | OR | APPEAL | lite | -- | LITE_PACKET |
-| 25 | 435 Filer Ave W, Twin Falls, ID 83301 | ID | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
-| 26 | 3554 S Tensleep, Hoback Junction, WY 83001 | WY | -- | full | -- | REFUND_INSUFFICIENT_DATA |
-| 27 | 6216 Monticello Cv, Montgomery, AL 36117 | AL | APPEAL | full | $3,017 | SUCCESS |
-| 28 | 9304 E Clover Creek Dr, Claremore, OK 74017 | OK | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
-| 29 | 2848 Walnut St, Los Alamos, NM 87544 | NM | APPEAL | full | $964 | SUCCESS |
-| 30 | 36 Richards Ave, Portsmouth, NH 03801 | NH | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
-| 31 | 226 55Th St Ne, Washington, DC 20019 | DC | APPEAL | full | $485 | SUCCESS |
-| 32 | 1540 North Morton Drive, Salt Lake City, UT 84116 | UT | APPEAL | full | $160 | SUCCESS |
-| 33 | 237 Dorchester Ave, Box Elder, SD 57719 | SD | APPEAL | lite | -- | LITE_PACKET |
-| 34 | 3816 Roland Dr, Southaven, MS 38672 | MS | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
-| 35 | 9564 Grandview Dr, Saint Louis, MO 63132 | MO | APPEAL | full | $1,072 | SUCCESS |
-| 36 | 294 Hapapa Rd, Kula, HI 96790 | HI | -- | -- | -- | FAILED |
-| 37 | 17 Walnut Ave, Norwalk, CT 06851 | CT | -- | full | -- | FAILED |
-| 38 | 10719 Greensboro Rd, Denton, MD 21629 | MD | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
-| 39 | 4634 London Dr, Indianapolis, IN 46254 | IN | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
-| 40 | 668 Midway Church Ln, Delhi, LA 71232 | LA | APPEAL | lite | -- | LITE_PACKET |
-| 41 | 966 25Th St W, Dickinson, ND 58601 | ND | APPEAL | full | $160 | SUCCESS |
-| 42 | 48 Arrowhead Ave, Milton, VT 05468 | VT | APPEAL | full | $1,204 | SUCCESS |
-| 43 | 613 Links Dr, Maidsville, WV 26541 | WV | APPEAL | full | $79 | SUCCESS |
-| 44 | 35580 N Fork Rd, Anchor Point, AK 99556 | AK | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
-| 45 | 4239 E Troon Dr, Fayetteville, AR 72701 | AR | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
-| 46 | 24 Walker St, Lincoln, RI 02865 | RI | APPEAL | full | $1,361 | SUCCESS |
-| 47 | 36843 Jahnigen Dr, Frankford, DE 19945 | DE | APPEAL | full | $605 | SUCCESS |
-| 48 | 15 Abby Ln, Litchfield, ME 04350 | ME | APPEAL | full | $1,321 | SUCCESS |
-| 49 | 7 Dawes Rd, Stow, MA 01775 | MA | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
-| 50 | 316 W 24Th St, York, NE 68467 | NE | APPEAL | full | $644 | SUCCESS |
+| 1 | 697 Patty Rd, Cades, SC 29518 | SC | APPEAL | lite | -- | LITE_PACKET |
+| 2 | 8120 Milo Fields Ln, Mckinney, TX 75071 | TX | APPEAL | full | $1,697 | SUCCESS |
+| 3 | 3744 E Nevada Ave, Fresno, CA 93702 | CA | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
+| 4 | 3994 N Parkside Dr, Schaumburg, IL 60192 | IL | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
+| 5 | 91 Delafield Avenue, Staten Island, NY 10301 | NY | APPEAL | full | $1,224 | SUCCESS |
+| 6 | 370 Courtney St Se, Palm Bay, FL 32909 | FL | APPEAL | full | $542 | SUCCESS |
+| 7 | 1020 Reunion Pl Sw, Atlanta, GA 30331 | GA | APPEAL | full | $438 | SUCCESS |
+| 8 | 176 Vineyard Cir, Nashville, TN 37211 | TN | -- | full | -- | REFUND_INSUFFICIENT_DATA |
+| 9 | 3600 E 88Th Ave, Thornton, CO 80229 | CO | -- | full | -- | REFUND_COMMERCIAL |
+| 10 | 6524 Silent Creek Ave Se, Snoqualmie, WA 98065 | WA | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
+| 11 | 2008 E 84 Street, Cleveland, OH 44104 | OH | -- | full | -- | REFUND_INSUFFICIENT_DATA |
+| 12 | 2273 Savage Rd, Newport, NC 28570 | NC | -- | full | -- | REFUND_INSUFFICIENT_DATA |
+| 13 | 7219 N 83Rd Ave, Glendale, AZ 85303 | AZ | -- | full | -- | FAILED |
+| 14 | 3717 W Red Coach Ave, North Las Vegas, NV 89031 | NV | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
+| 15 | 1055 Sumter Ave, Bird Island, MN 55310 | MN | -- | full | -- | REFUND_INSUFFICIENT_DATA |
+| 16 | 3973 W Parkland Ave, Milwaukee, WI 53209 | WI | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
+| 17 | 516 W Tyler Rd, Muskegon, MI 49445 | MI | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
+| 18 | 1171 Park Avenue, Newport News, VA 23607 | VA | -- | full | -- | REFUND_INSUFFICIENT_DATA |
+| 19 | 315 Glenview Dr, Pittsburgh, PA 15238 | PA | -- | full | -- | REFUND_INSUFFICIENT_DATA |
+| 20 | 31 Winter St, Collingswood, NJ 08108 | NJ | -- | full | -- | REFUND_INSUFFICIENT_DATA |
+| 21 | 1801 S Brookfield St, South Bend, IN 46613 | IN | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
+| 22 | 305 W Mary St, Garden City, KS 67846 | KS | APPEAL | lite | -- | LITE_PACKET |
+| 23 | 646 Sw 89Th St, Oklahoma City, OK 73139 | OK | -- | full | -- | REFUND_INSUFFICIENT_DATA |
+| 24 | 575 N 18Th St, Payette, ID 83661 | ID | APPEAL | full | $156 | SUCCESS |
+| 25 | 3620 Ne 102Nd Ave, Portland, OR 97220 | OR | -- | full | -- | REFUND_INSUFFICIENT_DATA |
+| 26 | 1215 Walnut St, Saint Joseph, MO 64501 | MO | -- | full | -- | REFUND_INSUFFICIENT_DATA |
+| 27 | 323 W 4Th St, South Boston, MA 02127 | MA | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
+| 28 | 5517 W Alamo Pl, Sioux Falls, SD 57106 | SD | -- | full | -- | REFUND_INSUFFICIENT_DATA |
+| 29 | 2000 N Englewood Rd, Huntington, WV 25701 | WV | APPEAL | full | $87 | SUCCESS |
+| 30 | 15 Cheshire Court, Londonderry, NH 03053 | NH | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
+| 31 | 2511 N 129Th St, Omaha, NE 68164 | NE | APPEAL | full | $293 | SUCCESS |
+| 32 | 216 Lindenwood Lane, Frankfort, KY 40601 | KY | -- | full | -- | REFUND_INSUFFICIENT_DATA |
+| 33 | 11 Nancy St, Pawtucket, RI 02860 | RI | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
+| 34 | 8923 Hampton Ave Ne, Albuquerque, NM 87122 | NM | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
+| 35 | 205 N Hunter Ln, Jonesboro, AR 72405 | AR | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
+| 36 | 56 Chelsea Rd, Bradford, VT 05033 | VT | APPEAL | full | $1,357 | SUCCESS |
+| 37 | 409 E Hamilton St, Gonzales, LA 70737 | LA | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
+| 38 | 1300 N Star Loop, Cheyenne, WY 82009 | WY | APPEAL | lite | -- | LITE_PACKET |
+| 39 | 5800 Hwy 554, Hattiesburg, MS 39402 | MS | -- | full | -- | REFUND_INSUFFICIENT_DATA |
+| 40 | 1715 2Nd Ave N, Jamestown, ND 58401 | ND | -- | full | -- | REFUND_COMMERCIAL |
+| 41 | 207 S Anniston Ave, Sylacauga, AL 35150 | AL | DO_NOT_APPEAL | do_not_appeal | -- | DO_NOT_APPEAL |
+| 42 | 1133 S 20Th St, Fort Dodge, IA 50501 | IA | APPEAL | full | $497 | SUCCESS |
+| 43 | 3810 Iowa Dr, Anchorage, AK 99517 | AK | APPEAL | full | $903 | SUCCESS |
+| 44 | 130 Woodrow Avenue, Wilmington, DE 19803 | DE | -- | full | -- | REFUND_INSUFFICIENT_DATA |
+| 45 | 2929 S 800 E, Salt Lake City, UT 84106 | UT | -- | full | -- | REFUND_INSUFFICIENT_DATA |
+| 46 | 9240 Wethersfield Dr, Lanham, MD 20706 | MD | -- | full | -- | REFUND_INSUFFICIENT_DATA |
+| 47 | 94-761 Meheula Pkwy, Mililani, HI 96789 | HI | APPEAL | full | $198 | SUCCESS |
+| 48 | 52 N Main St, Plainville, CT 06062 | CT | -- | full | -- | REFUND_INSUFFICIENT_DATA |
+| 49 | 3446 Williams Rd, Valier, MT 59486 | MT | APPEAL | full | $813 | SUCCESS |

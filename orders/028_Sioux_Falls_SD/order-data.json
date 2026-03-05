@@ -1,0 +1,14 @@
+{
+  "orderId": "66f867ec-d1b5-4162-a222-91bea45a41e7",
+  "address": "5517 W Alamo Pl, Sioux Falls, SD 57106",
+  "county": "Sioux Falls",
+  "state": "SD",
+  "status": "failed",
+  "recommendation": null,
+  "packetType": "full",
+  "valuation": {},
+  "assessment": {},
+  "compsCount": 0,
+  "docUrls": {},
+  "generationTimeMs": null
+}

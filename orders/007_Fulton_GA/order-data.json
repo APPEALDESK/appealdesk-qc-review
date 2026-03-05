@@ -1,0 +1,109 @@
+{
+  "orderId": "42c14855-6322-435f-9d92-ff2b4bb04c86",
+  "address": "1020 Reunion Pl Sw, Atlanta, GA 30331",
+  "county": "Fulton",
+  "state": "GA",
+  "status": "completed",
+  "recommendation": "APPEAL",
+  "packetType": "full",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 0.4,
+      "quantarium": 0
+    },
+    "medianPsf": 182,
+    "packetType": "full",
+    "searchTier": "RELAXED",
+    "_dataSource": "reapi",
+    "avmEstimate": 253967,
+    "avmRangeLow": 228570,
+    "marketValue": 253967,
+    "medianPrice": 250000,
+    "avmRangeHigh": 279364,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 40,
+        "searchedRatio": 40,
+        "registrySource": "https://dor.georgia.gov/property-tax-assessments",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "APPEAL",
+      "assessmentRatio": 0.4,
+      "countyAppraisedValue": 271500,
+      "marketValueFromComps": 253967,
+      "overassessmentAmount": 17533,
+      "potentialAnnualSavings": 438
+    },
+    "assessedValue": 108600,
+    "confidenceGate": {
+      "gates": [],
+      "passed": true,
+      "reason": "All confidence checks passed",
+      "confidence": "HIGH",
+      "gateAction": "PROCEED",
+      "warningCount": 0,
+      "criticalCount": 0
+    },
+    "isOverassessed": true,
+    "searchMetadata": {
+      "tierName": "RELAXED",
+      "compsFound": 4,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 1.5,
+      "confidenceGate": {
+        "gates": [],
+        "passed": true,
+        "reason": "All confidence checks passed",
+        "confidence": "HIGH",
+        "gateAction": "PROCEED",
+        "warningCount": 0,
+        "criticalCount": 0
+      },
+      "monthsSearched": 18,
+      "dataQualityNote": "Search expanded to broader search of comparable homes.",
+      "outliersRemoved": 0,
+      "tierDescription": "Broader search of comparable homes",
+      "isExpandedSearch": true
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "none",
+    "impliedFairValue": 253967,
+    "_quantariumCalled": false,
+    "medianPricePerSqft": 182,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 271500,
+    "overassessmentAmount": 17533,
+    "_quantariumCompsAdded": 0,
+    "valuationPricePerSqft": 142,
+    "potentialAnnualSavings": 438
+  },
+  "assessment": {
+    "year": 2025,
+    "history": {},
+    "_provider": "reapi",
+    "annualTax": 0,
+    "landValue": 30960,
+    "taxHistory": {},
+    "totalValue": 108600,
+    "_rawAssessedValue": 108600,
+    "countyMarketValue": 271500,
+    "improvementsValue": 77640,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 314000
+  },
+  "compsCount": 4,
+  "docUrls": {
+    "coverLetter": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/42c14855-6322-435f-9d92-ff2b4bb04c86/3_ATTACH_TO_APPEAL_Cover_Letter.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzQyYzE0ODU1LTYzMjItNDM1Zi05ZDkyLWZmMmI0YmIwNGM4Ni8zX0FUVEFDSF9UT19BUFBFQUxfQ292ZXJfTGV0dGVyLnBkZiIsImlhdCI6MTc3MjczOTA3MSwiZXhwIjoxNzc1MzMxMDcxfQ.iWDrdHWWbyxRggSgbz5KmCZv5BEPMeK6UTX1GgBO0-c",
+    "filingGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/42c14855-6322-435f-9d92-ff2b4bb04c86/1_READ_FIRST_Your_Filing_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzQyYzE0ODU1LTYzMjItNDM1Zi05ZDkyLWZmMmI0YmIwNGM4Ni8xX1JFQURfRklSU1RfWW91cl9GaWxpbmdfR3VpZGUucGRmIiwiaWF0IjoxNzcyNzM5MDcxLCJleHAiOjE3NzUzMzEwNzF9.RpsFF94OLbQWeR8r_NizBkHUNbdHCHa7513em_8iwnM",
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/42c14855-6322-435f-9d92-ff2b4bb04c86/5_BONUS_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzQyYzE0ODU1LTYzMjItNDM1Zi05ZDkyLWZmMmI0YmIwNGM4Ni81X0JPTlVTX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3MjczOTA3MSwiZXhwIjoxNzc1MzMxMDcxfQ.6YvBmM-QZupuewnkbMoMOXHOmlSrc10R2jT2iD7sjcQ",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/42c14855-6322-435f-9d92-ff2b4bb04c86/2_ATTACH_TO_APPEAL_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzQyYzE0ODU1LTYzMjItNDM1Zi05ZDkyLWZmMmI0YmIwNGM4Ni8yX0FUVEFDSF9UT19BUFBFQUxfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3MjczOTA3MSwiZXhwIjoxNzc1MzMxMDcxfQ.Jl25vCrk9hWjc_nWZwiyeygaZJU9ax1LnmH-43ShsKk"
+  },
+  "generationTimeMs": 39873
+}

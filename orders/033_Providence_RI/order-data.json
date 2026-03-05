@@ -1,0 +1,108 @@
+{
+  "orderId": "5277dd10-93eb-486a-be86-c3dc12220c82",
+  "address": "11 Nancy St, Pawtucket, RI 02860",
+  "county": "Providence",
+  "state": "RI",
+  "status": "do_not_appeal",
+  "recommendation": "DO_NOT_APPEAL",
+  "packetType": "do_not_appeal",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 0.4,
+      "quantarium": 0
+    },
+    "medianPsf": 125,
+    "packetType": "do_not_appeal",
+    "searchTier": "RELAXED",
+    "_dataSource": "reapi",
+    "avmEstimate": 789694,
+    "avmRangeLow": 710725,
+    "marketValue": 789694,
+    "medianPrice": 755000,
+    "avmRangeHigh": 868663,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 100,
+        "searchedRatio": 100,
+        "registrySource": "https://www.ri.gov/taxation/",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "DO_NOT_APPEAL",
+      "assessmentRatio": 1,
+      "countyAppraisedValue": 484900,
+      "marketValueFromComps": 789694,
+      "overassessmentAmount": -304794,
+      "potentialAnnualSavings": 0
+    },
+    "assessedValue": 484900,
+    "confidenceGate": {
+      "gates": [],
+      "passed": true,
+      "reason": "All confidence checks passed",
+      "confidence": "HIGH",
+      "gateAction": "PROCEED",
+      "warningCount": 0,
+      "criticalCount": 0
+    },
+    "isOverassessed": false,
+    "searchMetadata": {
+      "tierName": "RELAXED",
+      "compsFound": 4,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 1.5,
+      "confidenceGate": {
+        "gates": [],
+        "passed": true,
+        "reason": "All confidence checks passed",
+        "confidence": "HIGH",
+        "gateAction": "PROCEED",
+        "warningCount": 0,
+        "criticalCount": 0
+      },
+      "monthsSearched": 18,
+      "dataQualityNote": "Search expanded to broader search of comparable homes.",
+      "outliersRemoved": 0,
+      "tierDescription": "Broader search of comparable homes",
+      "isExpandedSearch": true
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "none",
+    "impliedFairValue": 789694,
+    "_quantariumCalled": false,
+    "medianPricePerSqft": 125,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 484900,
+    "overassessmentAmount": -304794,
+    "_quantariumCompsAdded": 0,
+    "valuationPricePerSqft": 108,
+    "potentialAnnualSavings": 0
+  },
+  "assessment": {
+    "year": 2025,
+    "history": {},
+    "_provider": "reapi",
+    "annualTax": 6376,
+    "landValue": 124500,
+    "taxHistory": {},
+    "totalValue": 484900,
+    "_rawAssessedValue": 484900,
+    "countyMarketValue": 484900,
+    "improvementsValue": 360400,
+    "_marketValueSource": "estimatedValue",
+    "_reapiEstimatedValue": 484900
+  },
+  "compsCount": 4,
+  "docUrls": {
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/5277dd10-93eb-486a-be86-c3dc12220c82/3_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzUyNzdkZDEwLTkzZWItNDg2YS1iZTg2LWMzZGMxMjIyMGM4Mi8zX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3MjczOTgzMiwiZXhwIjoxNzc1MzMxODMyfQ.zrUmNHRB2Kvk9ndq5ThtJo8Qq6_qnMUXR_ra-4nRd18",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/5277dd10-93eb-486a-be86-c3dc12220c82/1_Your_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzUyNzdkZDEwLTkzZWItNDg2YS1iZTg2LWMzZGMxMjIyMGM4Mi8xX1lvdXJfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3MjczOTgzMiwiZXhwIjoxNzc1MzMxODMyfQ.qZBxdxzyGNU3lQHHdoToiUG93yY4v15zVua_lKg37WY",
+    "analysisSummary": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/5277dd10-93eb-486a-be86-c3dc12220c82/2_Your_Analysis_Summary.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzUyNzdkZDEwLTkzZWItNDg2YS1iZTg2LWMzZGMxMjIyMGM4Mi8yX1lvdXJfQW5hbHlzaXNfU3VtbWFyeS5wZGYiLCJpYXQiOjE3NzI3Mzk4MzMsImV4cCI6MTc3NTMzMTgzM30.05HwhWrbcfcN3rewwVRNR-bnaXGxOve2TFmm6Ofp4f4"
+  },
+  "generationTimeMs": 59191
+}

@@ -1,6 +1,6 @@
 {
-  "orderId": "e640e619-5e88-4e06-ab80-f969e3b93476",
-  "address": "710 Wicker Ave, Streamwood, IL 60107",
+  "orderId": "9d57662b-6760-46d1-991b-ff29b4d8c42a",
+  "address": "3994 N Parkside Dr, Schaumburg, IL 60192",
   "county": "Cook",
   "state": "IL",
   "status": "do_not_appeal",
@@ -12,15 +12,15 @@
       "total": 0.4,
       "quantarium": 0
     },
-    "medianPsf": 249,
+    "medianPsf": 238,
     "packetType": "do_not_appeal",
     "searchTier": "EXPANDED",
     "_dataSource": "reapi",
-    "avmEstimate": 340072,
-    "avmRangeLow": 306065,
-    "marketValue": 340072,
-    "medianPrice": 305000,
-    "avmRangeHigh": 374079,
+    "avmEstimate": 528030,
+    "avmRangeLow": 475227,
+    "marketValue": 528030,
+    "medianPrice": 600000,
+    "avmRangeHigh": 580833,
     "opusAnalysis": {
       "confidence": "HIGH",
       "ratioCheck": {
@@ -35,12 +35,12 @@
       },
       "recommendation": "DO_NOT_APPEAL",
       "assessmentRatio": 0.1,
-      "countyAppraisedValue": 220000,
-      "marketValueFromComps": 340072,
-      "overassessmentAmount": -120072,
+      "countyAppraisedValue": 409990,
+      "marketValueFromComps": 528030,
+      "overassessmentAmount": -118040,
       "potentialAnnualSavings": 0
     },
-    "assessedValue": 22000,
+    "assessedValue": 40999,
     "confidenceGate": {
       "gates": [],
       "passed": true,
@@ -56,7 +56,7 @@
       "compsFound": 3,
       "isIdealData": false,
       "outlierNote": null,
-      "radiusMiles": 0.8,
+      "radiusMiles": 0.6,
       "confidenceGate": {
         "gates": [],
         "passed": true,
@@ -74,35 +74,35 @@
     },
     "valuationMethod": "psf_25th_percentile",
     "groundingQuality": "none",
-    "impliedFairValue": 340072,
+    "impliedFairValue": 528030,
     "_quantariumCalled": false,
-    "medianPricePerSqft": 249,
+    "medianPricePerSqft": 238,
     "valuationPercentile": 25,
-    "countyAppraisedValue": 220000,
-    "overassessmentAmount": -120072,
+    "countyAppraisedValue": 409990,
+    "overassessmentAmount": -118040,
     "_quantariumCompsAdded": 0,
-    "valuationPricePerSqft": 244,
+    "valuationPricePerSqft": 235,
     "potentialAnnualSavings": 0
   },
   "assessment": {
     "year": 2023,
     "history": {},
     "_provider": "reapi",
-    "annualTax": 5755.38,
-    "landValue": 3300,
+    "annualTax": 10463.3,
+    "landValue": 7350,
     "taxHistory": {},
-    "totalValue": 22000,
-    "_rawAssessedValue": 22000,
-    "countyMarketValue": 220000,
-    "improvementsValue": 18700,
+    "totalValue": 40999,
+    "_rawAssessedValue": 40999,
+    "countyMarketValue": 409990,
+    "improvementsValue": 33649,
     "_marketValueSource": "marketValue",
-    "_reapiEstimatedValue": 330000
+    "_reapiEstimatedValue": 600000
   },
   "compsCount": 3,
   "docUrls": {
-    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/e640e619-5e88-4e06-ab80-f969e3b93476/3_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2U2NDBlNjE5LTVlODgtNGUwNi1hYjgwLWY5NjllM2I5MzQ3Ni8zX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3MjY2MzUzMywiZXhwIjoxNzc1MjU1NTMzfQ.jvTOvFEpsgUtMsDxJ1oJEPF3VqtMUG9FD7Yem0BHd5Y",
-    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/e640e619-5e88-4e06-ab80-f969e3b93476/1_Your_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2U2NDBlNjE5LTVlODgtNGUwNi1hYjgwLWY5NjllM2I5MzQ3Ni8xX1lvdXJfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3MjY2MzUzMywiZXhwIjoxNzc1MjU1NTMzfQ.nBCw0nt5vbPP_Ha-JutNJM62KMOe-rQeaHAHGKjjsvg",
-    "analysisSummary": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/e640e619-5e88-4e06-ab80-f969e3b93476/2_Your_Analysis_Summary.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2U2NDBlNjE5LTVlODgtNGUwNi1hYjgwLWY5NjllM2I5MzQ3Ni8yX1lvdXJfQW5hbHlzaXNfU3VtbWFyeS5wZGYiLCJpYXQiOjE3NzI2NjM1MzMsImV4cCI6MTc3NTI1NTUzM30.1zzLo1hNPqCo67ox5wzcSDN4JCD8wWHHijUeiEQetu0"
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/9d57662b-6760-46d1-991b-ff29b4d8c42a/3_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzlkNTc2NjJiLTY3NjAtNDZkMS05OTFiLWZmMjliNGQ4YzQyYS8zX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3MjczODkyMSwiZXhwIjoxNzc1MzMwOTIxfQ.zY7qyrdrKTEMD7Oo0lHsJT5MbHXLEjo1qdfzv1c4tvM",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/9d57662b-6760-46d1-991b-ff29b4d8c42a/1_Your_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzlkNTc2NjJiLTY3NjAtNDZkMS05OTFiLWZmMjliNGQ4YzQyYS8xX1lvdXJfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3MjczODkyMSwiZXhwIjoxNzc1MzMwOTIxfQ.t7eIDhAHFxTgbo4-QCUdriULA7bE0KDxMbtoav8hdQ0",
+    "analysisSummary": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/9d57662b-6760-46d1-991b-ff29b4d8c42a/2_Your_Analysis_Summary.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzlkNTc2NjJiLTY3NjAtNDZkMS05OTFiLWZmMjliNGQ4YzQyYS8yX1lvdXJfQW5hbHlzaXNfU3VtbWFyeS5wZGYiLCJpYXQiOjE3NzI3Mzg5MjEsImV4cCI6MTc3NTMzMDkyMX0.Z9bLikA0RSnfaTZsoDp79s5hS8rou0D3vBDO-mpvt4g"
   },
-  "generationTimeMs": 33909
+  "generationTimeMs": 39310
 }

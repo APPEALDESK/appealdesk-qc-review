@@ -1,0 +1,14 @@
+{
+  "orderId": "14c28f54-3ff8-4bd1-9ab6-c715c2d2ce75",
+  "address": "1055 Sumter Ave, Bird Island, MN 55310",
+  "county": "Renville",
+  "state": "MN",
+  "status": "failed",
+  "recommendation": null,
+  "packetType": "full",
+  "valuation": {},
+  "assessment": {},
+  "compsCount": 0,
+  "docUrls": {},
+  "generationTimeMs": null
+}

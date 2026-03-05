@@ -1,0 +1,14 @@
+{
+  "orderId": "c78c3400-50a0-4d87-90d0-2383627f96b9",
+  "address": "1215 Walnut St, Saint Joseph, MO 64501",
+  "county": "Buchanan",
+  "state": "MO",
+  "status": "failed",
+  "recommendation": null,
+  "packetType": "full",
+  "valuation": {},
+  "assessment": {},
+  "compsCount": 0,
+  "docUrls": {},
+  "generationTimeMs": null
+}

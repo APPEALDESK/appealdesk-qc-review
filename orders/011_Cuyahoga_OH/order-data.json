@@ -1,0 +1,14 @@
+{
+  "orderId": "56a9972c-dd0e-4578-901e-b287f060dde1",
+  "address": "2008 E 84 Street, Cleveland, OH 44104",
+  "county": "Cuyahoga",
+  "state": "OH",
+  "status": "failed",
+  "recommendation": null,
+  "packetType": "full",
+  "valuation": {},
+  "assessment": {},
+  "compsCount": 0,
+  "docUrls": {},
+  "generationTimeMs": null
+}

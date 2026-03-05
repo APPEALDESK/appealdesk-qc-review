@@ -1,0 +1,109 @@
+{
+  "orderId": "314be91f-3a90-481f-9534-72f2445cb4d2",
+  "address": "94-761 Meheula Pkwy, Mililani, HI 96789",
+  "county": "Honolulu",
+  "state": "HI",
+  "status": "completed",
+  "recommendation": "APPEAL",
+  "packetType": "full",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 0.4,
+      "quantarium": 0
+    },
+    "medianPsf": 689,
+    "packetType": "full",
+    "searchTier": "IDEAL",
+    "_dataSource": "reapi",
+    "avmEstimate": 426861,
+    "avmRangeLow": 384175,
+    "marketValue": 426861,
+    "medianPrice": 525000,
+    "avmRangeHigh": 469547,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 100,
+        "searchedRatio": 100,
+        "registrySource": "https://tax.hawaii.gov/",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "APPEAL",
+      "assessmentRatio": 1,
+      "countyAppraisedValue": 483400,
+      "marketValueFromComps": 426861,
+      "overassessmentAmount": 56539,
+      "potentialAnnualSavings": 198
+    },
+    "assessedValue": 483400,
+    "confidenceGate": {
+      "gates": [],
+      "passed": true,
+      "reason": "All confidence checks passed",
+      "confidence": "HIGH",
+      "gateAction": "PROCEED",
+      "warningCount": 0,
+      "criticalCount": 0
+    },
+    "isOverassessed": true,
+    "searchMetadata": {
+      "tierName": "IDEAL",
+      "compsFound": 6,
+      "isIdealData": true,
+      "outlierNote": null,
+      "radiusMiles": 0.2,
+      "confidenceGate": {
+        "gates": [],
+        "passed": true,
+        "reason": "All confidence checks passed",
+        "confidence": "HIGH",
+        "gateAction": "PROCEED",
+        "warningCount": 0,
+        "criticalCount": 0
+      },
+      "monthsSearched": 6,
+      "dataQualityNote": null,
+      "outliersRemoved": 0,
+      "tierDescription": "Recent sales of very similar homes nearby",
+      "isExpandedSearch": false
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "none",
+    "impliedFairValue": 426861,
+    "_quantariumCalled": false,
+    "medianPricePerSqft": 689,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 483400,
+    "overassessmentAmount": 56539,
+    "_quantariumCompsAdded": 0,
+    "valuationPricePerSqft": 560,
+    "potentialAnnualSavings": 198
+  },
+  "assessment": {
+    "year": 2025,
+    "history": {},
+    "_provider": "reapi",
+    "annualTax": 1691.9,
+    "landValue": 230100,
+    "taxHistory": {},
+    "totalValue": 483400,
+    "_rawAssessedValue": 483400,
+    "countyMarketValue": 483400,
+    "improvementsValue": 253300,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 483400
+  },
+  "compsCount": 6,
+  "docUrls": {
+    "coverLetter": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/314be91f-3a90-481f-9534-72f2445cb4d2/3_ATTACH_TO_APPEAL_Cover_Letter.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzMxNGJlOTFmLTNhOTAtNDgxZi05NTM0LTcyZjI0NDVjYjRkMi8zX0FUVEFDSF9UT19BUFBFQUxfQ292ZXJfTGV0dGVyLnBkZiIsImlhdCI6MTc3Mjc0MDMyOSwiZXhwIjoxNzc1MzMyMzI5fQ.S44WKb-1N3S4OfuZKrvAfgyOHPe0ND2xWtJRIWbUtWM",
+    "filingGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/314be91f-3a90-481f-9534-72f2445cb4d2/1_READ_FIRST_Your_Filing_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzMxNGJlOTFmLTNhOTAtNDgxZi05NTM0LTcyZjI0NDVjYjRkMi8xX1JFQURfRklSU1RfWW91cl9GaWxpbmdfR3VpZGUucGRmIiwiaWF0IjoxNzcyNzQwMzI5LCJleHAiOjE3NzUzMzIzMjl9.Jvk4CAE28ng1ik2hWC1-I3FaILrOyqpTS9I8HQW3yk0",
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/314be91f-3a90-481f-9534-72f2445cb4d2/5_BONUS_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzMxNGJlOTFmLTNhOTAtNDgxZi05NTM0LTcyZjI0NDVjYjRkMi81X0JPTlVTX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3Mjc0MDMyOSwiZXhwIjoxNzc1MzMyMzI5fQ.U5m4H4dTsmuFqJ2Pu6LRLQ4OwTeYn21XoIIvGHipVX8",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/314be91f-3a90-481f-9534-72f2445cb4d2/2_ATTACH_TO_APPEAL_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzMxNGJlOTFmLTNhOTAtNDgxZi05NTM0LTcyZjI0NDVjYjRkMi8yX0FUVEFDSF9UT19BUFBFQUxfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3Mjc0MDMyOSwiZXhwIjoxNzc1MzMyMzI5fQ.lblGT_PDfHlmBStB9yEWcHhvsbG66pQfoeH9_g2oSLw"
+  },
+  "generationTimeMs": 38328
+}

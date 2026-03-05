@@ -1,0 +1,109 @@
+{
+  "orderId": "d53678e9-e71c-4ed7-96ba-2b1051e2e8f6",
+  "address": "1133 S 20Th St, Fort Dodge, IA 50501",
+  "county": "Webster",
+  "state": "IA",
+  "status": "completed",
+  "recommendation": "APPEAL",
+  "packetType": "full",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 0.4,
+      "quantarium": 0
+    },
+    "medianPsf": 108,
+    "packetType": "full",
+    "searchTier": "IDEAL",
+    "_dataSource": "reapi",
+    "avmEstimate": 74069,
+    "avmRangeLow": 66662,
+    "marketValue": 74069,
+    "medianPrice": 90000,
+    "avmRangeHigh": 81476,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 100,
+        "searchedRatio": 100,
+        "registrySource": "https://dom.iowa.gov/",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "APPEAL",
+      "assessmentRatio": 1,
+      "countyAppraisedValue": 108400,
+      "marketValueFromComps": 74069,
+      "overassessmentAmount": 34331,
+      "potentialAnnualSavings": 497
+    },
+    "assessedValue": 108400,
+    "confidenceGate": {
+      "gates": [],
+      "passed": true,
+      "reason": "All confidence checks passed",
+      "confidence": "HIGH",
+      "gateAction": "PROCEED",
+      "warningCount": 0,
+      "criticalCount": 0
+    },
+    "isOverassessed": true,
+    "searchMetadata": {
+      "tierName": "IDEAL",
+      "compsFound": 3,
+      "isIdealData": true,
+      "outlierNote": null,
+      "radiusMiles": 0.4,
+      "confidenceGate": {
+        "gates": [],
+        "passed": true,
+        "reason": "All confidence checks passed",
+        "confidence": "HIGH",
+        "gateAction": "PROCEED",
+        "warningCount": 0,
+        "criticalCount": 0
+      },
+      "monthsSearched": 6,
+      "dataQualityNote": null,
+      "outliersRemoved": 0,
+      "tierDescription": "Recent sales of very similar homes nearby",
+      "isExpandedSearch": false
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "none",
+    "impliedFairValue": 74069,
+    "_quantariumCalled": false,
+    "medianPricePerSqft": 108,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 108400,
+    "overassessmentAmount": 34331,
+    "_quantariumCompsAdded": 0,
+    "valuationPricePerSqft": 91,
+    "potentialAnnualSavings": 497
+  },
+  "assessment": {
+    "year": 2025,
+    "history": {},
+    "_provider": "reapi",
+    "annualTax": 1568,
+    "landValue": 10000,
+    "taxHistory": {},
+    "totalValue": 108400,
+    "_rawAssessedValue": 108400,
+    "countyMarketValue": 108400,
+    "improvementsValue": 98400,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 108400
+  },
+  "compsCount": 3,
+  "docUrls": {
+    "coverLetter": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/d53678e9-e71c-4ed7-96ba-2b1051e2e8f6/3_ATTACH_TO_APPEAL_Cover_Letter.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2Q1MzY3OGU5LWU3MWMtNGVkNy05NmJhLTJiMTA1MWUyZThmNi8zX0FUVEFDSF9UT19BUFBFQUxfQ292ZXJfTGV0dGVyLnBkZiIsImlhdCI6MTc3Mjc0MDIxMSwiZXhwIjoxNzc1MzMyMjExfQ.NciMARbUx08WueK2GoiHNTW9B5GikekWFXbiumizDIQ",
+    "filingGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/d53678e9-e71c-4ed7-96ba-2b1051e2e8f6/1_READ_FIRST_Your_Filing_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2Q1MzY3OGU5LWU3MWMtNGVkNy05NmJhLTJiMTA1MWUyZThmNi8xX1JFQURfRklSU1RfWW91cl9GaWxpbmdfR3VpZGUucGRmIiwiaWF0IjoxNzcyNzQwMjExLCJleHAiOjE3NzUzMzIyMTF9.gMhj5N6WOJmqklUIvRA8wcwO9d_w5tMw7C_ILN3nLFk",
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/d53678e9-e71c-4ed7-96ba-2b1051e2e8f6/5_BONUS_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2Q1MzY3OGU5LWU3MWMtNGVkNy05NmJhLTJiMTA1MWUyZThmNi81X0JPTlVTX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3Mjc0MDIxMSwiZXhwIjoxNzc1MzMyMjExfQ.PVOVh_0cA9jl8ufVZt-ImaUJq_t9pxxO2lwfdKvx2Dw",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/d53678e9-e71c-4ed7-96ba-2b1051e2e8f6/2_ATTACH_TO_APPEAL_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2Q1MzY3OGU5LWU3MWMtNGVkNy05NmJhLTJiMTA1MWUyZThmNi8yX0FUVEFDSF9UT19BUFBFQUxfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3Mjc0MDIxMSwiZXhwIjoxNzc1MzMyMjExfQ.g2kokMvdcMoz33ZM8wIcnz94v-KxEddLnW1IGAaaMnc"
+  },
+  "generationTimeMs": 42520
+}

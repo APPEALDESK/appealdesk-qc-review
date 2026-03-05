@@ -1,0 +1,14 @@
+{
+  "orderId": "603e4d10-c8a5-4597-9aa0-acc5b79c4ad7",
+  "address": "216 Lindenwood Lane, Frankfort, KY 40601",
+  "county": "Franklin",
+  "state": "KY",
+  "status": "failed",
+  "recommendation": null,
+  "packetType": "full",
+  "valuation": {},
+  "assessment": {},
+  "compsCount": 0,
+  "docUrls": {},
+  "generationTimeMs": null
+}

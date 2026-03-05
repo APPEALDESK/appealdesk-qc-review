@@ -1,0 +1,14 @@
+{
+  "orderId": "b0e65034-235d-4eb4-bd81-ef25f8bc13e6",
+  "address": "31 Winter St, Collingswood, NJ 08108",
+  "county": "Camden",
+  "state": "NJ",
+  "status": "failed",
+  "recommendation": null,
+  "packetType": "full",
+  "valuation": {},
+  "assessment": {},
+  "compsCount": 0,
+  "docUrls": {},
+  "generationTimeMs": null
+}

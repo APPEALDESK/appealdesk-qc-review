@@ -1,0 +1,14 @@
+{
+  "orderId": "34608b98-45bd-45be-bff2-0378e82529ac",
+  "address": "3620 Ne 102Nd Ave, Portland, OR 97220",
+  "county": "Multnomah",
+  "state": "OR",
+  "status": "failed",
+  "recommendation": null,
+  "packetType": "full",
+  "valuation": {},
+  "assessment": {},
+  "compsCount": 0,
+  "docUrls": {},
+  "generationTimeMs": null
+}

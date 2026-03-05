@@ -1,0 +1,109 @@
+{
+  "orderId": "2231ac96-79c8-475f-aa48-d13e22c2369f",
+  "address": "575 N 18Th St, Payette, ID 83661",
+  "county": "Payette",
+  "state": "ID",
+  "status": "completed",
+  "recommendation": "APPEAL",
+  "packetType": "full",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 0.4,
+      "quantarium": 0
+    },
+    "medianPsf": 239,
+    "packetType": "full",
+    "searchTier": "EXPANDED",
+    "_dataSource": "reapi",
+    "avmEstimate": 340829,
+    "avmRangeLow": 306746,
+    "marketValue": 340829,
+    "medianPrice": 349500,
+    "avmRangeHigh": 374912,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 100,
+        "searchedRatio": 100,
+        "registrySource": "https://tax.idaho.gov/taxes/property-tax/",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "APPEAL",
+      "assessmentRatio": 1,
+      "countyAppraisedValue": 375599,
+      "marketValueFromComps": 340829,
+      "overassessmentAmount": 34770,
+      "potentialAnnualSavings": 156
+    },
+    "assessedValue": 375599,
+    "confidenceGate": {
+      "gates": [],
+      "passed": true,
+      "reason": "All confidence checks passed",
+      "confidence": "HIGH",
+      "gateAction": "PROCEED",
+      "warningCount": 0,
+      "criticalCount": 0
+    },
+    "isOverassessed": true,
+    "searchMetadata": {
+      "tierName": "EXPANDED",
+      "compsFound": 3,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 0.7,
+      "confidenceGate": {
+        "gates": [],
+        "passed": true,
+        "reason": "All confidence checks passed",
+        "confidence": "HIGH",
+        "gateAction": "PROCEED",
+        "warningCount": 0,
+        "criticalCount": 0
+      },
+      "monthsSearched": 12,
+      "dataQualityNote": "Search expanded to recent sales of similar homes in area.",
+      "outliersRemoved": 0,
+      "tierDescription": "Recent sales of similar homes in area",
+      "isExpandedSearch": true
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "none",
+    "impliedFairValue": 340829,
+    "_quantariumCalled": false,
+    "medianPricePerSqft": 239,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 375599,
+    "overassessmentAmount": 34770,
+    "_quantariumCompsAdded": 0,
+    "valuationPricePerSqft": 197,
+    "potentialAnnualSavings": 156
+  },
+  "assessment": {
+    "year": 2025,
+    "history": {},
+    "_provider": "reapi",
+    "annualTax": 1680.2,
+    "landValue": 132200,
+    "taxHistory": {},
+    "totalValue": 375599,
+    "_rawAssessedValue": 375599,
+    "countyMarketValue": 375599,
+    "improvementsValue": 243399,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 375599
+  },
+  "compsCount": 3,
+  "docUrls": {
+    "coverLetter": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/2231ac96-79c8-475f-aa48-d13e22c2369f/3_ATTACH_TO_APPEAL_Cover_Letter.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzIyMzFhYzk2LTc5YzgtNDc1Zi1hYTQ4LWQxM2UyMmMyMzY5Zi8zX0FUVEFDSF9UT19BUFBFQUxfQ292ZXJfTGV0dGVyLnBkZiIsImlhdCI6MTc3MjczOTUwOCwiZXhwIjoxNzc1MzMxNTA4fQ.wZ4GEPjDEOVCh6dGQxBfu6a47w4bD9cH66OvnTp8DFs",
+    "filingGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/2231ac96-79c8-475f-aa48-d13e22c2369f/1_READ_FIRST_Your_Filing_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzIyMzFhYzk2LTc5YzgtNDc1Zi1hYTQ4LWQxM2UyMmMyMzY5Zi8xX1JFQURfRklSU1RfWW91cl9GaWxpbmdfR3VpZGUucGRmIiwiaWF0IjoxNzcyNzM5NTA4LCJleHAiOjE3NzUzMzE1MDh9.g81oghhgAxc4Mkp76_3ypup-L4ALx6IGW6LSsJuIaFg",
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/2231ac96-79c8-475f-aa48-d13e22c2369f/5_BONUS_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzIyMzFhYzk2LTc5YzgtNDc1Zi1hYTQ4LWQxM2UyMmMyMzY5Zi81X0JPTlVTX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3MjczOTUwOCwiZXhwIjoxNzc1MzMxNTA4fQ.vsgbe2-WV1MibVyH0uulW2CKQ6Pd87mwmsVqq-L-6ME",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/2231ac96-79c8-475f-aa48-d13e22c2369f/2_ATTACH_TO_APPEAL_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzIyMzFhYzk2LTc5YzgtNDc1Zi1hYTQ4LWQxM2UyMmMyMzY5Zi8yX0FUVEFDSF9UT19BUFBFQUxfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3MjczOTUwOCwiZXhwIjoxNzc1MzMxNTA4fQ.sI9GT6_4y2QkJQ-HrPIQRKfmOTOURJbHw1TzbnILAeo"
+  },
+  "generationTimeMs": 34027
+}

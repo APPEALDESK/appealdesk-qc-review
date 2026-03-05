@@ -1,0 +1,122 @@
+{
+  "orderId": "a4d86d93-d4ae-406c-ae0e-c92a02740cb5",
+  "address": "3744 E Nevada Ave, Fresno, CA 93702",
+  "county": "Fresno",
+  "state": "CA",
+  "status": "do_not_appeal",
+  "recommendation": "DO_NOT_APPEAL",
+  "packetType": "do_not_appeal",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 1.25,
+      "quantarium": 0.85
+    },
+    "medianPsf": 299,
+    "packetType": "do_not_appeal",
+    "searchTier": "EXPANDED",
+    "_dataSource": "reapi",
+    "avmEstimate": 162789,
+    "avmRangeLow": 146510,
+    "marketValue": 162789,
+    "medianPrice": 269000,
+    "avmRangeHigh": 179068,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 100,
+        "searchedRatio": 100,
+        "registrySource": "https://www.boe.ca.gov/proptaxes/",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "DO_NOT_APPEAL",
+      "assessmentRatio": 1,
+      "countyAppraisedValue": 82752,
+      "marketValueFromComps": 162789,
+      "overassessmentAmount": -80037,
+      "potentialAnnualSavings": 0
+    },
+    "assessedValue": 82752,
+    "confidenceGate": {
+      "gates": [
+        {
+          "check": "UNDERASSESSED_BY_AVM",
+          "passed": false,
+          "message": "AVM ($222,000) exceeds county appraised value ($82,752) by 168%. Filing an appeal could trigger a reassessment UPWARD.",
+          "severity": "CRITICAL"
+        }
+      ],
+      "passed": false,
+      "reason": "AVM ($222,000) exceeds county appraised value ($82,752) by 168%. Filing an appeal could trigger a reassessment UPWARD.",
+      "confidence": "VERY_LOW",
+      "gateAction": "BLOCK_REVIEW",
+      "warningCount": 0,
+      "criticalCount": 1
+    },
+    "isOverassessed": false,
+    "searchMetadata": {
+      "tierName": "EXPANDED",
+      "compsFound": 3,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 1,
+      "confidenceGate": {
+        "gates": [
+          {
+            "check": "UNDERASSESSED_BY_AVM",
+            "passed": false,
+            "message": "AVM ($222,000) exceeds county appraised value ($82,752) by 168%. Filing an appeal could trigger a reassessment UPWARD.",
+            "severity": "CRITICAL"
+          }
+        ],
+        "passed": false,
+        "reason": "AVM ($222,000) exceeds county appraised value ($82,752) by 168%. Filing an appeal could trigger a reassessment UPWARD.",
+        "confidence": "VERY_LOW",
+        "gateAction": "BLOCK_REVIEW",
+        "warningCount": 0,
+        "criticalCount": 1
+      },
+      "monthsSearched": 12,
+      "dataQualityNote": "Search expanded to recent sales of similar homes in area.",
+      "outliersRemoved": 0,
+      "tierDescription": "Recent sales of similar homes in area",
+      "isExpandedSearch": true
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "none",
+    "impliedFairValue": 162789,
+    "_quantariumCalled": true,
+    "medianPricePerSqft": 299,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 82752,
+    "overassessmentAmount": -80037,
+    "_quantariumCompsAdded": 0,
+    "valuationPricePerSqft": 188,
+    "potentialAnnualSavings": 0
+  },
+  "assessment": {
+    "year": 2025,
+    "history": {},
+    "_provider": "reapi",
+    "annualTax": 1012.14,
+    "landValue": 27579,
+    "taxHistory": {},
+    "totalValue": 82752,
+    "_rawAssessedValue": 82752,
+    "countyMarketValue": null,
+    "improvementsValue": 55173,
+    "_marketValueSource": null,
+    "_reapiEstimatedValue": 222000
+  },
+  "compsCount": 3,
+  "docUrls": {
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/a4d86d93-d4ae-406c-ae0e-c92a02740cb5/3_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2E0ZDg2ZDkzLWQ0YWUtNDA2Yy1hZTBlLWM5MmEwMjc0MGNiNS8zX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3MjczODg3NiwiZXhwIjoxNzc1MzMwODc2fQ.XN46JS2NwwSPmoWfwHE56HlWSRN9gEulUlcbpn7_1sk",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/a4d86d93-d4ae-406c-ae0e-c92a02740cb5/1_Your_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2E0ZDg2ZDkzLWQ0YWUtNDA2Yy1hZTBlLWM5MmEwMjc0MGNiNS8xX1lvdXJfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3MjczODg3NiwiZXhwIjoxNzc1MzMwODc2fQ.neCaxn7pUNl46ilKlrSuLRxUaz7mLafqaWSgFiNbUq8",
+    "analysisSummary": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/a4d86d93-d4ae-406c-ae0e-c92a02740cb5/2_Your_Analysis_Summary.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2E0ZDg2ZDkzLWQ0YWUtNDA2Yy1hZTBlLWM5MmEwMjc0MGNiNS8yX1lvdXJfQW5hbHlzaXNfU3VtbWFyeS5wZGYiLCJpYXQiOjE3NzI3Mzg4NzYsImV4cCI6MTc3NTMzMDg3Nn0.RpMtY-S9p4GXLGfHNlHUs-O6Rccg3qNvN7yhgz9Q23s"
+  },
+  "generationTimeMs": 55984
+}

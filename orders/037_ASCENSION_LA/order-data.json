@@ -1,0 +1,122 @@
+{
+  "orderId": "a3e76684-6a50-4da2-8d54-a67cf44f6059",
+  "address": "409 E Hamilton St, Gonzales, LA 70737",
+  "county": "ASCENSION",
+  "state": "LA",
+  "status": "do_not_appeal",
+  "recommendation": "DO_NOT_APPEAL",
+  "packetType": "do_not_appeal",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 1.25,
+      "quantarium": 0.85
+    },
+    "medianPsf": 135,
+    "packetType": "do_not_appeal",
+    "searchTier": "QUANTARIUM",
+    "_dataSource": "quantarium",
+    "avmEstimate": 146244,
+    "avmRangeLow": 131620,
+    "marketValue": 146244,
+    "medianPrice": 190000,
+    "avmRangeHigh": 160868,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 10,
+        "searchedRatio": 10,
+        "registrySource": "https://www.latc.state.la.us/",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "DO_NOT_APPEAL",
+      "assessmentRatio": 0.1,
+      "countyAppraisedValue": 75800,
+      "marketValueFromComps": 146244,
+      "overassessmentAmount": -70444,
+      "potentialAnnualSavings": 0
+    },
+    "assessedValue": 7580,
+    "confidenceGate": {
+      "gates": [
+        {
+          "check": "UNDERASSESSED_BY_AVM",
+          "passed": false,
+          "message": "AVM ($151,430) exceeds county appraised value ($75,800) by 100%. Filing an appeal could trigger a reassessment UPWARD.",
+          "severity": "CRITICAL"
+        }
+      ],
+      "passed": false,
+      "reason": "AVM ($151,430) exceeds county appraised value ($75,800) by 100%. Filing an appeal could trigger a reassessment UPWARD.",
+      "confidence": "VERY_LOW",
+      "gateAction": "BLOCK_REVIEW",
+      "warningCount": 0,
+      "criticalCount": 1
+    },
+    "isOverassessed": false,
+    "searchMetadata": {
+      "tierName": "QUANTARIUM",
+      "compsFound": 15,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 0,
+      "confidenceGate": {
+        "gates": [
+          {
+            "check": "UNDERASSESSED_BY_AVM",
+            "passed": false,
+            "message": "AVM ($151,430) exceeds county appraised value ($75,800) by 100%. Filing an appeal could trigger a reassessment UPWARD.",
+            "severity": "CRITICAL"
+          }
+        ],
+        "passed": false,
+        "reason": "AVM ($151,430) exceeds county appraised value ($75,800) by 100%. Filing an appeal could trigger a reassessment UPWARD.",
+        "confidence": "VERY_LOW",
+        "gateAction": "BLOCK_REVIEW",
+        "warningCount": 0,
+        "criticalCount": 1
+      },
+      "monthsSearched": 24,
+      "dataQualityNote": "Comparable sales sourced from Quantarium (fallback provider).",
+      "outliersRemoved": 0,
+      "tierDescription": "Quantarium comparable sales (fallback provider)",
+      "isExpandedSearch": true
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "none",
+    "impliedFairValue": 146244,
+    "_quantariumCalled": true,
+    "medianPricePerSqft": 135,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 75800,
+    "overassessmentAmount": -70444,
+    "_quantariumCompsAdded": 0,
+    "valuationPricePerSqft": 124,
+    "potentialAnnualSavings": 0
+  },
+  "assessment": {
+    "year": 2024,
+    "history": {},
+    "_provider": "quantarium",
+    "annualTax": 827.05,
+    "landValue": 0,
+    "taxHistory": {},
+    "totalValue": 7580,
+    "_rawAssessedValue": 7580,
+    "countyMarketValue": 75800,
+    "improvementsValue": 0,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 151430
+  },
+  "compsCount": 15,
+  "docUrls": {
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/a3e76684-6a50-4da2-8d54-a67cf44f6059/3_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2EzZTc2Njg0LTZhNTAtNGRhMi04ZDU0LWE2N2NmNDRmNjA1OS8zX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3Mjc0MDA1NywiZXhwIjoxNzc1MzMyMDU3fQ.ZKlGUidKjI-dYQlqWQRBoB2XYzaudAWN4fVlfbMbb1I",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/a3e76684-6a50-4da2-8d54-a67cf44f6059/1_Your_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2EzZTc2Njg0LTZhNTAtNGRhMi04ZDU0LWE2N2NmNDRmNjA1OS8xX1lvdXJfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3Mjc0MDA1NywiZXhwIjoxNzc1MzMyMDU3fQ.rzD3UFmgPlrBKz0JmbQKobPUf-_wrbMaZM2NMIt6Dbw",
+    "analysisSummary": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/a3e76684-6a50-4da2-8d54-a67cf44f6059/2_Your_Analysis_Summary.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2EzZTc2Njg0LTZhNTAtNGRhMi04ZDU0LWE2N2NmNDRmNjA1OS8yX1lvdXJfQW5hbHlzaXNfU3VtbWFyeS5wZGYiLCJpYXQiOjE3NzI3NDAwNTcsImV4cCI6MTc3NTMzMjA1N30.5cSwXDrMXtpkQmsdCXzn6u-J9cqBlHSCwqajtirmrSE"
+  },
+  "generationTimeMs": 37428
+}

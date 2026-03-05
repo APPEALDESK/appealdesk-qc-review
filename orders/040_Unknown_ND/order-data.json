@@ -1,0 +1,14 @@
+{
+  "orderId": "1c14c954-0db2-4829-a369-3caa9319f0cf",
+  "address": "1715 2Nd Ave N, Jamestown, ND 58401",
+  "county": null,
+  "state": "ND",
+  "status": "failed",
+  "recommendation": null,
+  "packetType": "full",
+  "valuation": {},
+  "assessment": {},
+  "compsCount": 0,
+  "docUrls": {},
+  "generationTimeMs": null
+}

@@ -1,6 +1,0 @@
-{
-  "orderId": "0b7d0c67-b20e-4b7c-b7ef-a73a8dcc221b",
-  "address": "294 Hapapa Rd, Kula, HI 96790",
-  "error": "Supabase upload failed: Upload failed: fetch failed",
-  "stack": "Error: Supabase upload failed: Upload failed: fetch failed\n    at generatePacketCore (C:\\Users\\travi\\Downloads\\appealdesk-site\\appealdesk-site\\app\\lib\\generatePacketCore.js:2920:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async main (C:\\Users\\travi\\Downloads\\appealdesk-site\\appealdesk-site\\scripts\\qc-batch50-public.mjs:361:22)"
-}

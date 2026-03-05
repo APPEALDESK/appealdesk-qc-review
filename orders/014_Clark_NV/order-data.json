@@ -1,26 +1,26 @@
 {
-  "orderId": "20e38660-4ea6-4d20-a0d6-0e9c8c12c4a4",
-  "address": "5637 Midnight Breeze St, North Las Vegas, NV 89081",
+  "orderId": "91d69919-e195-464a-b749-c5a48aeeaf03",
+  "address": "3717 W Red Coach Ave, North Las Vegas, NV 89031",
   "county": "Clark",
   "state": "NV",
-  "status": "completed",
-  "recommendation": "APPEAL",
-  "packetType": "full",
+  "status": "do_not_appeal",
+  "recommendation": "DO_NOT_APPEAL",
+  "packetType": "do_not_appeal",
   "valuation": {
     "_apiCosts": {
       "reapi": 0.4,
-      "total": 0.4,
-      "quantarium": 0
+      "total": 1.25,
+      "quantarium": 0.85
     },
-    "medianPsf": 222,
-    "packetType": "full",
+    "medianPsf": 254,
+    "packetType": "do_not_appeal",
     "searchTier": "EXPANDED",
     "_dataSource": "reapi",
-    "avmEstimate": 281398,
-    "avmRangeLow": 253258,
-    "marketValue": 281398,
-    "medianPrice": 369000,
-    "avmRangeHigh": 309538,
+    "avmEstimate": 425658,
+    "avmRangeLow": 383092,
+    "marketValue": 425658,
+    "medianPrice": 450000,
+    "avmRangeHigh": 468224,
     "opusAnalysis": {
       "confidence": "HIGH",
       "ratioCheck": {
@@ -33,38 +33,52 @@
         "discrepancyNote": null,
         "isCountyOverride": false
       },
-      "recommendation": "APPEAL",
+      "recommendation": "DO_NOT_APPEAL",
       "assessmentRatio": 0.35,
-      "countyAppraisedValue": 351006,
-      "marketValueFromComps": 281398,
-      "overassessmentAmount": 69608,
-      "potentialAnnualSavings": 384
+      "countyAppraisedValue": 261360,
+      "marketValueFromComps": 425658,
+      "overassessmentAmount": -164298,
+      "potentialAnnualSavings": 0
     },
-    "assessedValue": 122852,
+    "assessedValue": 91476,
     "confidenceGate": {
-      "gates": [],
-      "passed": true,
-      "reason": "All confidence checks passed",
-      "confidence": "HIGH",
-      "gateAction": "PROCEED",
+      "gates": [
+        {
+          "check": "UNDERASSESSED_BY_AVM",
+          "passed": false,
+          "message": "AVM ($431,000) exceeds county appraised value ($261,360) by 65%. Filing an appeal could trigger a reassessment UPWARD.",
+          "severity": "CRITICAL"
+        }
+      ],
+      "passed": false,
+      "reason": "AVM ($431,000) exceeds county appraised value ($261,360) by 65%. Filing an appeal could trigger a reassessment UPWARD.",
+      "confidence": "VERY_LOW",
+      "gateAction": "BLOCK_REVIEW",
       "warningCount": 0,
-      "criticalCount": 0
+      "criticalCount": 1
     },
-    "isOverassessed": true,
+    "isOverassessed": false,
     "searchMetadata": {
       "tierName": "EXPANDED",
-      "compsFound": 4,
+      "compsFound": 8,
       "isIdealData": false,
       "outlierNote": null,
-      "radiusMiles": 0.7,
+      "radiusMiles": 1,
       "confidenceGate": {
-        "gates": [],
-        "passed": true,
-        "reason": "All confidence checks passed",
-        "confidence": "HIGH",
-        "gateAction": "PROCEED",
+        "gates": [
+          {
+            "check": "UNDERASSESSED_BY_AVM",
+            "passed": false,
+            "message": "AVM ($431,000) exceeds county appraised value ($261,360) by 65%. Filing an appeal could trigger a reassessment UPWARD.",
+            "severity": "CRITICAL"
+          }
+        ],
+        "passed": false,
+        "reason": "AVM ($431,000) exceeds county appraised value ($261,360) by 65%. Filing an appeal could trigger a reassessment UPWARD.",
+        "confidence": "VERY_LOW",
+        "gateAction": "BLOCK_REVIEW",
         "warningCount": 0,
-        "criticalCount": 0
+        "criticalCount": 1
       },
       "monthsSearched": 12,
       "dataQualityNote": "Search expanded to recent sales of similar homes in area.",
@@ -74,36 +88,36 @@
     },
     "valuationMethod": "psf_25th_percentile",
     "groundingQuality": "none",
-    "impliedFairValue": 281398,
-    "_quantariumCalled": false,
-    "medianPricePerSqft": 222,
+    "impliedFairValue": 425658,
+    "_quantariumCalled": true,
+    "medianPricePerSqft": 254,
     "valuationPercentile": 25,
-    "countyAppraisedValue": 351006,
-    "overassessmentAmount": 69608,
+    "countyAppraisedValue": 261360,
+    "overassessmentAmount": -164298,
+    "_preFilterMarketValue": 410194,
     "_quantariumCompsAdded": 0,
-    "valuationPricePerSqft": 170,
-    "potentialAnnualSavings": 384
+    "valuationPricePerSqft": 240,
+    "potentialAnnualSavings": 0
   },
   "assessment": {
     "year": 2025,
     "history": {},
     "_provider": "reapi",
-    "annualTax": 1936.89,
-    "landValue": 31150,
+    "annualTax": 1562.78,
+    "landValue": 35000,
     "taxHistory": {},
-    "totalValue": 122852,
-    "_rawAssessedValue": 122852,
-    "countyMarketValue": 351006,
-    "improvementsValue": 91702,
+    "totalValue": 91476,
+    "_rawAssessedValue": 91476,
+    "countyMarketValue": 261360,
+    "improvementsValue": 56476,
     "_marketValueSource": "marketValue",
-    "_reapiEstimatedValue": 420000
+    "_reapiEstimatedValue": 431000
   },
-  "compsCount": 4,
+  "compsCount": 6,
   "docUrls": {
-    "coverLetter": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/20e38660-4ea6-4d20-a0d6-0e9c8c12c4a4/3_ATTACH_TO_APPEAL_Cover_Letter.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzIwZTM4NjYwLTRlYTYtNGQyMC1hMGQ2LTBlOWM4YzEyYzRhNC8zX0FUVEFDSF9UT19BUFBFQUxfQ292ZXJfTGV0dGVyLnBkZiIsImlhdCI6MTc3MjY2Mzk2NSwiZXhwIjoxNzc1MjU1OTY1fQ.jdPPYqHuUb71CflXVVIQcCZ1hyH2FY0n0O-Xtc9JfTY",
-    "filingGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/20e38660-4ea6-4d20-a0d6-0e9c8c12c4a4/1_READ_FIRST_Your_Filing_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzIwZTM4NjYwLTRlYTYtNGQyMC1hMGQ2LTBlOWM4YzEyYzRhNC8xX1JFQURfRklSU1RfWW91cl9GaWxpbmdfR3VpZGUucGRmIiwiaWF0IjoxNzcyNjYzOTY1LCJleHAiOjE3NzUyNTU5NjV9.JXuyzHKaphZqRcTsk_ZdzZcqpOUTy_sm3e_KG4OfsI8",
-    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/20e38660-4ea6-4d20-a0d6-0e9c8c12c4a4/5_BONUS_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzIwZTM4NjYwLTRlYTYtNGQyMC1hMGQ2LTBlOWM4YzEyYzRhNC81X0JPTlVTX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3MjY2Mzk2NSwiZXhwIjoxNzc1MjU1OTY1fQ.jXMlomZFhnRXsLG95oCm2uhXyvnwbVDUqvZfkPoV-vI",
-    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/20e38660-4ea6-4d20-a0d6-0e9c8c12c4a4/2_ATTACH_TO_APPEAL_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzIwZTM4NjYwLTRlYTYtNGQyMC1hMGQ2LTBlOWM4YzEyYzRhNC8yX0FUVEFDSF9UT19BUFBFQUxfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3MjY2Mzk2NSwiZXhwIjoxNzc1MjU1OTY1fQ.oqN8P3rbBOW_VDRUsY4g2r--tWYAXAxeObuBTwNX7o4"
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/91d69919-e195-464a-b749-c5a48aeeaf03/3_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzkxZDY5OTE5LWUxOTUtNDY0YS1iNzQ5LWM1YTQ4YWVlYWYwMy8zX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3MjczOTI0NywiZXhwIjoxNzc1MzMxMjQ3fQ.M9FMxke0npJzrgd4bvTWV2tNWV9J-YwrPHisHcrdhsc",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/91d69919-e195-464a-b749-c5a48aeeaf03/1_Your_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzkxZDY5OTE5LWUxOTUtNDY0YS1iNzQ5LWM1YTQ4YWVlYWYwMy8xX1lvdXJfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3MjczOTI0OCwiZXhwIjoxNzc1MzMxMjQ4fQ.2whGVkpMYjg056IDYKrhkh3CHQapVQ4kq8l1qltmvDk",
+    "analysisSummary": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/91d69919-e195-464a-b749-c5a48aeeaf03/2_Your_Analysis_Summary.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzkxZDY5OTE5LWUxOTUtNDY0YS1iNzQ5LWM1YTQ4YWVlYWYwMy8yX1lvdXJfQW5hbHlzaXNfU3VtbWFyeS5wZGYiLCJpYXQiOjE3NzI3MzkyNDcsImV4cCI6MTc3NTMzMTI0N30.aXPTet5NvUYbyH2UoyiY8aQ_qzaoRwcz8Iz9eU5RN9E"
   },
-  "generationTimeMs": 36096
+  "generationTimeMs": 42409
 }

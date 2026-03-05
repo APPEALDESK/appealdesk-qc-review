@@ -1,0 +1,108 @@
+{
+  "orderId": "846aef9f-0fb4-4293-91d4-f3dd19337b28",
+  "address": "8923 Hampton Ave Ne, Albuquerque, NM 87122",
+  "county": "Bernalillo",
+  "state": "NM",
+  "status": "do_not_appeal",
+  "recommendation": "DO_NOT_APPEAL",
+  "packetType": "do_not_appeal",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 1.25,
+      "quantarium": 0.85
+    },
+    "medianPsf": 259,
+    "packetType": "do_not_appeal",
+    "searchTier": "BEST_AVAILABLE",
+    "_dataSource": "reapi+quantarium",
+    "avmEstimate": 561199,
+    "avmRangeLow": 505079,
+    "marketValue": 561199,
+    "medianPrice": 580000,
+    "avmRangeHigh": 617319,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 33.33,
+        "searchedRatio": 33.33,
+        "registrySource": "https://www.tax.newmexico.gov/property-tax/",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "DO_NOT_APPEAL",
+      "assessmentRatio": 0.3333,
+      "countyAppraisedValue": 440985,
+      "marketValueFromComps": 561199,
+      "overassessmentAmount": -120214,
+      "potentialAnnualSavings": 0
+    },
+    "assessedValue": 146981,
+    "confidenceGate": {
+      "gates": [],
+      "passed": true,
+      "reason": "All confidence checks passed",
+      "confidence": "HIGH",
+      "gateAction": "PROCEED",
+      "warningCount": 0,
+      "criticalCount": 0
+    },
+    "isOverassessed": false,
+    "searchMetadata": {
+      "tierName": "BEST_AVAILABLE",
+      "compsFound": 12,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 5,
+      "confidenceGate": {
+        "gates": [],
+        "passed": true,
+        "reason": "All confidence checks passed",
+        "confidence": "HIGH",
+        "gateAction": "PROCEED",
+        "warningCount": 0,
+        "criticalCount": 0
+      },
+      "monthsSearched": 24,
+      "dataQualityNote": "REAPI comps supplemented with 12 Quantarium comps.",
+      "outliersRemoved": 0,
+      "tierDescription": "Widest search for any comparable data",
+      "isExpandedSearch": true
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "none",
+    "impliedFairValue": 561199,
+    "_quantariumCalled": true,
+    "medianPricePerSqft": 259,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 440985,
+    "overassessmentAmount": -120214,
+    "_quantariumCompsAdded": 12,
+    "valuationPricePerSqft": 239,
+    "potentialAnnualSavings": 0
+  },
+  "assessment": {
+    "year": 2025,
+    "history": {},
+    "_provider": "reapi",
+    "annualTax": 6126.02,
+    "landValue": 21135,
+    "taxHistory": {},
+    "totalValue": 146981,
+    "_rawAssessedValue": 146981,
+    "countyMarketValue": 440985,
+    "improvementsValue": 125846,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 585000
+  },
+  "compsCount": 12,
+  "docUrls": {
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/846aef9f-0fb4-4293-91d4-f3dd19337b28/3_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzg0NmFlZjlmLTBmYjQtNDI5My05MWQ0LWYzZGQxOTMzN2IyOC8zX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3MjczOTg5OSwiZXhwIjoxNzc1MzMxODk5fQ.oBLPKh4y0pF0EZ3K41gYb71KvQ0tAkW5t3tfpePw6xI",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/846aef9f-0fb4-4293-91d4-f3dd19337b28/1_Your_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzg0NmFlZjlmLTBmYjQtNDI5My05MWQ0LWYzZGQxOTMzN2IyOC8xX1lvdXJfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3MjczOTg5OSwiZXhwIjoxNzc1MzMxODk5fQ.RtbhBafTSbOLA3wo72cz1VUhlaY7hgGXvgE1HTP8pG4",
+    "analysisSummary": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/846aef9f-0fb4-4293-91d4-f3dd19337b28/2_Your_Analysis_Summary.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzg0NmFlZjlmLTBmYjQtNDI5My05MWQ0LWYzZGQxOTMzN2IyOC8yX1lvdXJfQW5hbHlzaXNfU3VtbWFyeS5wZGYiLCJpYXQiOjE3NzI3Mzk4OTksImV4cCI6MTc3NTMzMTg5OX0.Uy0QIK7fvP9oqTtsmbKrLewcvvTPEFWJJtoWgr3NQDo"
+  },
+  "generationTimeMs": 60283
+}

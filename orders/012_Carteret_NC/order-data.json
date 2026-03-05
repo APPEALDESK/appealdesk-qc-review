@@ -1,0 +1,14 @@
+{
+  "orderId": "564a9aec-5b42-46b6-9727-3c0a093f438d",
+  "address": "2273 Savage Rd, Newport, NC 28570",
+  "county": "Carteret",
+  "state": "NC",
+  "status": "failed",
+  "recommendation": null,
+  "packetType": "full",
+  "valuation": {},
+  "assessment": {},
+  "compsCount": 0,
+  "docUrls": {},
+  "generationTimeMs": null
+}

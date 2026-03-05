@@ -1,9 +1,9 @@
 {
-  "orderId": "895481f1-07a9-49b1-90e6-38bdf2d74499",
-  "address": "1800 Blue Mountain Ave, Berthoud, CO 80513",
+  "orderId": "446d3ce1-0498-4208-811e-2d73d4414252",
+  "address": "3600 E 88Th Ave, Thornton, CO 80229",
   "county": null,
   "state": "CO",
-  "status": "quality_gate_failed",
+  "status": "failed",
   "recommendation": null,
   "packetType": "full",
   "valuation": {},

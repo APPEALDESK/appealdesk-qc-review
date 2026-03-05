@@ -1,0 +1,14 @@
+{
+  "orderId": "6e8aed43-2ddf-41b4-a42d-6547ee2fd764",
+  "address": "130 Woodrow Avenue, Wilmington, DE 19803",
+  "county": "New Castle",
+  "state": "DE",
+  "status": "failed",
+  "recommendation": null,
+  "packetType": "full",
+  "valuation": {},
+  "assessment": {},
+  "compsCount": 0,
+  "docUrls": {},
+  "generationTimeMs": null
+}

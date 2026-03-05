@@ -1,26 +1,26 @@
 {
-  "orderId": "f13e0c71-c427-4fdd-b786-95c8695619a6",
-  "address": "3055 17Th St Se, Auburn, WA 98092",
+  "orderId": "1fdfd799-9663-40d4-9de9-90002e89b1e0",
+  "address": "6524 Silent Creek Ave Se, Snoqualmie, WA 98065",
   "county": "King",
   "state": "WA",
-  "status": "completed",
-  "recommendation": "CONSIDER_APPEAL",
-  "packetType": "full",
+  "status": "do_not_appeal",
+  "recommendation": "DO_NOT_APPEAL",
+  "packetType": "do_not_appeal",
   "valuation": {
     "_apiCosts": {
       "reapi": 0.4,
       "total": 0.4,
       "quantarium": 0
     },
-    "medianPsf": 438,
-    "packetType": "full",
-    "searchTier": "RELAXED",
+    "medianPsf": 536,
+    "packetType": "do_not_appeal",
+    "searchTier": "EXPANDED",
     "_dataSource": "reapi",
-    "avmEstimate": 447674,
-    "avmRangeLow": 402907,
-    "marketValue": 447674,
-    "medianPrice": 490000,
-    "avmRangeHigh": 492441,
+    "avmEstimate": 979898,
+    "avmRangeLow": 881908,
+    "marketValue": 979898,
+    "medianPrice": 1015000,
+    "avmRangeHigh": 1077888,
     "opusAnalysis": {
       "confidence": "HIGH",
       "ratioCheck": {
@@ -33,92 +33,77 @@
         "discrepancyNote": null,
         "isCountyOverride": false
       },
-      "recommendation": "CONSIDER_APPEAL",
+      "recommendation": "DO_NOT_APPEAL",
       "assessmentRatio": 1,
-      "countyAppraisedValue": 445000,
-      "marketValueFromComps": 447674,
-      "overassessmentAmount": -2674,
+      "countyAppraisedValue": 865000,
+      "marketValueFromComps": 979898,
+      "overassessmentAmount": -114898,
       "potentialAnnualSavings": 0
     },
-    "assessedValue": 445000,
+    "assessedValue": 865000,
     "confidenceGate": {
-      "gates": [
-        {
-          "check": "PSF_OUTLIERS_DETECTED",
-          "passed": false,
-          "message": "2 comp(s) outside IQR fences ($332-$532/sqft): 1613 36th St Se @ $538/sqft, 150 R St Se @ $313/sqft",
-          "severity": "WARNING"
-        }
-      ],
+      "gates": [],
       "passed": true,
-      "reason": "2 comp(s) outside IQR fences ($332-$532/sqft): 1613 36th St Se @ $538/sqft, 150 R St Se @ $313/sqft",
-      "confidence": "MODERATE",
+      "reason": "All confidence checks passed",
+      "confidence": "HIGH",
       "gateAction": "PROCEED",
-      "warningCount": 1,
+      "warningCount": 0,
       "criticalCount": 0
     },
     "isOverassessed": false,
     "searchMetadata": {
-      "tierName": "RELAXED",
-      "compsFound": 10,
+      "tierName": "EXPANDED",
+      "compsFound": 4,
       "isIdealData": false,
       "outlierNote": null,
-      "radiusMiles": 1.5,
+      "radiusMiles": 0.9,
       "confidenceGate": {
-        "gates": [
-          {
-            "check": "PSF_OUTLIERS_DETECTED",
-            "passed": false,
-            "message": "2 comp(s) outside IQR fences ($332-$532/sqft): 1613 36th St Se @ $538/sqft, 150 R St Se @ $313/sqft",
-            "severity": "WARNING"
-          }
-        ],
+        "gates": [],
         "passed": true,
-        "reason": "2 comp(s) outside IQR fences ($332-$532/sqft): 1613 36th St Se @ $538/sqft, 150 R St Se @ $313/sqft",
-        "confidence": "MODERATE",
+        "reason": "All confidence checks passed",
+        "confidence": "HIGH",
         "gateAction": "PROCEED",
-        "warningCount": 1,
+        "warningCount": 0,
         "criticalCount": 0
       },
-      "monthsSearched": 18,
-      "dataQualityNote": "Search expanded to broader search of comparable homes.",
-      "outliersRemoved": 2,
-      "tierDescription": "Broader search of comparable homes",
+      "monthsSearched": 12,
+      "dataQualityNote": "Search expanded to recent sales of similar homes in area.",
+      "outliersRemoved": 0,
+      "tierDescription": "Recent sales of similar homes in area",
       "isExpandedSearch": true
     },
     "valuationMethod": "psf_25th_percentile",
     "groundingQuality": "none",
-    "impliedFairValue": 447674,
+    "impliedFairValue": 979898,
     "_quantariumCalled": false,
-    "medianPricePerSqft": 438,
+    "medianPricePerSqft": 536,
     "valuationPercentile": 25,
-    "countyAppraisedValue": 445000,
-    "overassessmentAmount": -2674,
-    "_preFilterMarketValue": 446647,
+    "countyAppraisedValue": 865000,
+    "overassessmentAmount": -114898,
+    "_preFilterMarketValue": 1040842,
     "_quantariumCompsAdded": 0,
-    "valuationPricePerSqft": 407,
+    "valuationPricePerSqft": 495,
     "potentialAnnualSavings": 0
   },
   "assessment": {
     "year": 2024,
     "history": {},
     "_provider": "reapi",
-    "annualTax": 5298.03,
-    "landValue": 140000,
+    "annualTax": 8256.27,
+    "landValue": 446000,
     "taxHistory": {},
-    "totalValue": 445000,
-    "_rawAssessedValue": 445000,
-    "countyMarketValue": 445000,
-    "improvementsValue": 305000,
+    "totalValue": 865000,
+    "_rawAssessedValue": 865000,
+    "countyMarketValue": 865000,
+    "improvementsValue": 419000,
     "_marketValueSource": "marketValue",
-    "_reapiEstimatedValue": 523000
+    "_reapiEstimatedValue": 1072000
   },
-  "compsCount": 9,
+  "compsCount": 3,
   "docUrls": {
-    "coverLetter": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/f13e0c71-c427-4fdd-b786-95c8695619a6/3_ATTACH_TO_APPEAL_Cover_Letter.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2YxM2UwYzcxLWM0MjctNGZkZC1iNzg2LTk1Yzg2OTU2MTlhNi8zX0FUVEFDSF9UT19BUFBFQUxfQ292ZXJfTGV0dGVyLnBkZiIsImlhdCI6MTc3MjY2MzgwNCwiZXhwIjoxNzc1MjU1ODA0fQ.XgLfZDkyqpk5xyRl4ASfokuSogNUUw68t3LOhraRkE8",
-    "filingGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/f13e0c71-c427-4fdd-b786-95c8695619a6/1_READ_FIRST_Your_Filing_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2YxM2UwYzcxLWM0MjctNGZkZC1iNzg2LTk1Yzg2OTU2MTlhNi8xX1JFQURfRklSU1RfWW91cl9GaWxpbmdfR3VpZGUucGRmIiwiaWF0IjoxNzcyNjYzODA0LCJleHAiOjE3NzUyNTU4MDR9.cTlLYL2ndPjMkD3h6twJSV1ombhEpuC7ihhKafkpaL8",
-    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/f13e0c71-c427-4fdd-b786-95c8695619a6/5_BONUS_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2YxM2UwYzcxLWM0MjctNGZkZC1iNzg2LTk1Yzg2OTU2MTlhNi81X0JPTlVTX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3MjY2MzgwNCwiZXhwIjoxNzc1MjU1ODA0fQ.Es0UYgS_lvKiNDd3-IL4y16ril7hDnTH2pQ6FM4KE10",
-    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/f13e0c71-c427-4fdd-b786-95c8695619a6/2_ATTACH_TO_APPEAL_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2YxM2UwYzcxLWM0MjctNGZkZC1iNzg2LTk1Yzg2OTU2MTlhNi8yX0FUVEFDSF9UT19BUFBFQUxfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3MjY2MzgwNCwiZXhwIjoxNzc1MjU1ODA0fQ.AZu205a-D0XXa-GCbLfZOl9MYm2ZTTOhzi7cx9iKR2g"
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/1fdfd799-9663-40d4-9de9-90002e89b1e0/3_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzFmZGZkNzk5LTk2NjMtNDBkNC05ZGU5LTkwMDAyZTg5YjFlMC8zX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3MjczOTEyOCwiZXhwIjoxNzc1MzMxMTI4fQ.fS1H2yUHXHuJbVYMjvMY9DwveJDNxxYO1cnADxJQzUk",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/1fdfd799-9663-40d4-9de9-90002e89b1e0/1_Your_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzFmZGZkNzk5LTk2NjMtNDBkNC05ZGU5LTkwMDAyZTg5YjFlMC8xX1lvdXJfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3MjczOTEyOSwiZXhwIjoxNzc1MzMxMTI5fQ.yVXE7TuiWTwSsmc-aHJGzlgIhtIa2boK9N-VP94djP0",
+    "analysisSummary": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/1fdfd799-9663-40d4-9de9-90002e89b1e0/2_Your_Analysis_Summary.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzFmZGZkNzk5LTk2NjMtNDBkNC05ZGU5LTkwMDAyZTg5YjFlMC8yX1lvdXJfQW5hbHlzaXNfU3VtbWFyeS5wZGYiLCJpYXQiOjE3NzI3MzkxMjgsImV4cCI6MTc3NTMzMTEyOH0.yQq7fJsyqBUWWRnoxq0UH56NF9fvU3kYBUxvoA1c8m0"
   },
-  "generationTimeMs": 39165
+  "generationTimeMs": 41586
 }

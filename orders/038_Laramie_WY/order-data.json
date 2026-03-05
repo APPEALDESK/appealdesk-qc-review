@@ -1,0 +1,56 @@
+{
+  "orderId": "3159674e-e4e3-4949-a24d-6eef9e67527f",
+  "address": "1300 N Star Loop, Cheyenne, WY 82009",
+  "county": "Laramie",
+  "state": "WY",
+  "status": "completed",
+  "recommendation": "APPEAL",
+  "packetType": "lite",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 1.25,
+      "quantarium": 0.85
+    },
+    "compsCount": 1,
+    "packetType": "lite",
+    "_dataSource": "reapi+quantarium",
+    "searchMetadata": {
+      "tierName": "BEST_AVAILABLE",
+      "compsFound": 0,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 5,
+      "monthsSearched": 24,
+      "dataQualityNote": "Search expanded to widest search for any comparable data.",
+      "outliersRemoved": 0,
+      "tierDescription": "Widest search for any comparable data",
+      "isExpandedSearch": true
+    },
+    "groundingQuality": "none",
+    "_quantariumCalled": true,
+    "_quantariumCompsAdded": 1
+  },
+  "assessment": {
+    "year": 2025,
+    "history": {},
+    "_provider": "reapi",
+    "annualTax": 4092.54,
+    "landValue": 7193,
+    "taxHistory": {},
+    "totalValue": 65780,
+    "_rawAssessedValue": 65780,
+    "countyMarketValue": 890342,
+    "improvementsValue": 58587,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 1041000
+  },
+  "compsCount": 0,
+  "docUrls": {
+    "coverLetter": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/3159674e-e4e3-4949-a24d-6eef9e67527f/2_Your_Cover_Letter.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzMxNTk2NzRlLWU0ZTMtNDk0OS1hMjRkLTZlZWY5ZTY3NTI3Zi8yX1lvdXJfQ292ZXJfTGV0dGVyLnBkZiIsImlhdCI6MTc3Mjc0MDEwMywiZXhwIjoxNzc1MzMyMTAzfQ.3XDkX9uGlNuk2RrAKQrV19o_wuRZjeOau1tVPs6JKXo",
+    "filingGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/3159674e-e4e3-4949-a24d-6eef9e67527f/1_READ_FIRST_Your_Filing_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzMxNTk2NzRlLWU0ZTMtNDk0OS1hMjRkLTZlZWY5ZTY3NTI3Zi8xX1JFQURfRklSU1RfWW91cl9GaWxpbmdfR3VpZGUucGRmIiwiaWF0IjoxNzcyNzQwMTAzLCJleHAiOjE3NzUzMzIxMDN9.fo8Vb1K4O_WNRKntFiN25L2b90HxqCzVNPHZ7qApcjs",
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/3159674e-e4e3-4949-a24d-6eef9e67527f/3_BONUS_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzMxNTk2NzRlLWU0ZTMtNDk0OS1hMjRkLTZlZWY5ZTY3NTI3Zi8zX0JPTlVTX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3Mjc0MDEwMywiZXhwIjoxNzc1MzMyMTAzfQ.MU-LvOypi9AMHCMR52G7C4pl-c_Yx-HsYGbIyDxWXZ4",
+    "evidencePacket": null
+  },
+  "generationTimeMs": 40641
+}
