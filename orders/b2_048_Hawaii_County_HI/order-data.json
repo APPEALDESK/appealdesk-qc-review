@@ -1,0 +1,109 @@
+{
+  "orderId": "5a4bbad6-dfe5-4e84-91c5-b836ab006b5e",
+  "address": "16-2058 Macadamia Dr, Pāhoa, HI 96778, USA",
+  "county": "Hawaii County",
+  "state": "HI",
+  "status": "completed",
+  "recommendation": "APPEAL",
+  "packetType": "full",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 0.4,
+      "quantarium": 0
+    },
+    "medianPsf": 182,
+    "packetType": "full",
+    "searchTier": "EXPANDED",
+    "_dataSource": "reapi",
+    "avmEstimate": 142259,
+    "avmRangeLow": 128033,
+    "marketValue": 142259,
+    "medianPrice": 139782,
+    "avmRangeHigh": 156485,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 100,
+        "searchedRatio": 100,
+        "registrySource": "https://tax.hawaii.gov/",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "APPEAL",
+      "assessmentRatio": 1,
+      "countyAppraisedValue": 249700,
+      "marketValueFromComps": 142259,
+      "overassessmentAmount": 107441,
+      "potentialAnnualSavings": 2686
+    },
+    "assessedValue": 177300,
+    "confidenceGate": {
+      "gates": [],
+      "passed": true,
+      "reason": "All confidence checks passed",
+      "confidence": "HIGH",
+      "gateAction": "PROCEED",
+      "warningCount": 0,
+      "criticalCount": 0
+    },
+    "isOverassessed": true,
+    "searchMetadata": {
+      "tierName": "EXPANDED",
+      "compsFound": 3,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 0.8,
+      "confidenceGate": {
+        "gates": [],
+        "passed": true,
+        "reason": "All confidence checks passed",
+        "confidence": "HIGH",
+        "gateAction": "PROCEED",
+        "warningCount": 0,
+        "criticalCount": 0
+      },
+      "monthsSearched": 12,
+      "dataQualityNote": "Search expanded to recent sales of similar homes in area.",
+      "outliersRemoved": 0,
+      "tierDescription": "Recent sales of similar homes in area",
+      "isExpandedSearch": true
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "full",
+    "impliedFairValue": 142259,
+    "_quantariumCalled": false,
+    "medianPricePerSqft": 182,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 249700,
+    "overassessmentAmount": 107441,
+    "_quantariumCompsAdded": 0,
+    "valuationPricePerSqft": 174,
+    "potentialAnnualSavings": 2686
+  },
+  "assessment": {
+    "year": 2025,
+    "history": {},
+    "_provider": "reapi",
+    "annualTax": 200,
+    "landValue": 17000,
+    "taxHistory": {},
+    "totalValue": 177300,
+    "_rawAssessedValue": 177300,
+    "countyMarketValue": 249700,
+    "improvementsValue": 160300,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 262000
+  },
+  "compsCount": 3,
+  "docUrls": {
+    "coverLetter": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/5a4bbad6-dfe5-4e84-91c5-b836ab006b5e/3_ATTACH_TO_APPEAL_Cover_Letter.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzVhNGJiYWQ2LWRmZTUtNGU4NC05MWM1LWI4MzZhYjAwNmI1ZS8zX0FUVEFDSF9UT19BUFBFQUxfQ292ZXJfTGV0dGVyLnBkZiIsImlhdCI6MTc3Mjc0NDE0NywiZXhwIjoxNzc1MzM2MTQ3fQ.ptPUrxBnb9d00RNFs7OhZQ_TD1oqpdw5rh00q6FTiU0",
+    "filingGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/5a4bbad6-dfe5-4e84-91c5-b836ab006b5e/1_READ_FIRST_Your_Filing_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzVhNGJiYWQ2LWRmZTUtNGU4NC05MWM1LWI4MzZhYjAwNmI1ZS8xX1JFQURfRklSU1RfWW91cl9GaWxpbmdfR3VpZGUucGRmIiwiaWF0IjoxNzcyNzQ0MTQ3LCJleHAiOjE3NzUzMzYxNDd9.7eZrWACc1MxUUjPBgPr4FhzWFqVhyYrDewQ-IGo4ykM",
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/5a4bbad6-dfe5-4e84-91c5-b836ab006b5e/5_BONUS_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzVhNGJiYWQ2LWRmZTUtNGU4NC05MWM1LWI4MzZhYjAwNmI1ZS81X0JPTlVTX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3Mjc0NDE0NywiZXhwIjoxNzc1MzM2MTQ3fQ.DdiZXisGcQYEZDy9aSOkr-nbXm_APwoUcCxMujjZm3o",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/5a4bbad6-dfe5-4e84-91c5-b836ab006b5e/2_ATTACH_TO_APPEAL_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzVhNGJiYWQ2LWRmZTUtNGU4NC05MWM1LWI4MzZhYjAwNmI1ZS8yX0FUVEFDSF9UT19BUFBFQUxfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3Mjc0NDE0NywiZXhwIjoxNzc1MzM2MTQ3fQ.J4WrOxHX2SfKuFkQhKA3xdjE6VWRy5wJFTCwRPZ_mYw"
+  },
+  "generationTimeMs": 31355
+}

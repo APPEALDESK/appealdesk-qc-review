@@ -1,0 +1,110 @@
+{
+  "orderId": "393a26d4-951b-4e23-bb8e-1553f0c4117e",
+  "address": "115 N Rose Ave, Kannapolis, NC 28083, USA",
+  "county": "Cabarrus County",
+  "state": "NC",
+  "status": "completed",
+  "recommendation": "APPEAL",
+  "packetType": "full",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 0.4,
+      "quantarium": 0
+    },
+    "medianPsf": 203,
+    "packetType": "full",
+    "searchTier": "EXPANDED",
+    "_dataSource": "reapi",
+    "avmEstimate": 195799,
+    "avmRangeLow": 176219,
+    "marketValue": 195799,
+    "medianPrice": 239000,
+    "avmRangeHigh": 215379,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 100,
+        "searchedRatio": 100,
+        "registrySource": "https://www.ncdor.gov/taxes-forms/property-tax",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "APPEAL",
+      "assessmentRatio": 1,
+      "countyAppraisedValue": 297610,
+      "marketValueFromComps": 195799,
+      "overassessmentAmount": 101811,
+      "potentialAnnualSavings": 1156
+    },
+    "assessedValue": 297610,
+    "confidenceGate": {
+      "gates": [],
+      "passed": true,
+      "reason": "All confidence checks passed",
+      "confidence": "HIGH",
+      "gateAction": "PROCEED",
+      "warningCount": 0,
+      "criticalCount": 0
+    },
+    "isOverassessed": true,
+    "searchMetadata": {
+      "tierName": "EXPANDED",
+      "compsFound": 7,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 1,
+      "confidenceGate": {
+        "gates": [],
+        "passed": true,
+        "reason": "All confidence checks passed",
+        "confidence": "HIGH",
+        "gateAction": "PROCEED",
+        "warningCount": 0,
+        "criticalCount": 0
+      },
+      "monthsSearched": 12,
+      "dataQualityNote": "Search expanded to recent sales of similar homes in area.",
+      "outliersRemoved": 0,
+      "tierDescription": "Recent sales of similar homes in area",
+      "isExpandedSearch": true
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "full",
+    "impliedFairValue": 195799,
+    "_quantariumCalled": false,
+    "medianPricePerSqft": 203,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 297610,
+    "overassessmentAmount": 101811,
+    "_preFilterMarketValue": 201596,
+    "_quantariumCompsAdded": 0,
+    "valuationPricePerSqft": 136,
+    "potentialAnnualSavings": 1156
+  },
+  "assessment": {
+    "year": 2025,
+    "history": {},
+    "_provider": "reapi",
+    "annualTax": 3379.36,
+    "landValue": 44000,
+    "taxHistory": {},
+    "totalValue": 297610,
+    "_rawAssessedValue": 297610,
+    "countyMarketValue": 297610,
+    "improvementsValue": 253610,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 298000
+  },
+  "compsCount": 6,
+  "docUrls": {
+    "coverLetter": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/393a26d4-951b-4e23-bb8e-1553f0c4117e/3_ATTACH_TO_APPEAL_Cover_Letter.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzM5M2EyNmQ0LTk1MWItNGUyMy1iYjhlLTE1NTNmMGM0MTE3ZS8zX0FUVEFDSF9UT19BUFBFQUxfQ292ZXJfTGV0dGVyLnBkZiIsImlhdCI6MTc3Mjc0MjYwOSwiZXhwIjoxNzc1MzM0NjA5fQ.okQ_wt0xC9ITRJ-1mNZc_6g14qeeSO9HNftbWQBKCzw",
+    "filingGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/393a26d4-951b-4e23-bb8e-1553f0c4117e/1_READ_FIRST_Your_Filing_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzM5M2EyNmQ0LTk1MWItNGUyMy1iYjhlLTE1NTNmMGM0MTE3ZS8xX1JFQURfRklSU1RfWW91cl9GaWxpbmdfR3VpZGUucGRmIiwiaWF0IjoxNzcyNzQyNjA5LCJleHAiOjE3NzUzMzQ2MDl9.NIl-tmPut6Rwzr0LCPqm0LPgibFMUkH3DM9a6j2p-co",
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/393a26d4-951b-4e23-bb8e-1553f0c4117e/5_BONUS_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzM5M2EyNmQ0LTk1MWItNGUyMy1iYjhlLTE1NTNmMGM0MTE3ZS81X0JPTlVTX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3Mjc0MjYwOSwiZXhwIjoxNzc1MzM0NjA5fQ.eGFhGB7bWy7OZF-qHV3WU2nbvT-tB1OOjRKjyacI9BY",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/393a26d4-951b-4e23-bb8e-1553f0c4117e/2_ATTACH_TO_APPEAL_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzM5M2EyNmQ0LTk1MWItNGUyMy1iYjhlLTE1NTNmMGM0MTE3ZS8yX0FUVEFDSF9UT19BUFBFQUxfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3Mjc0MjYwOSwiZXhwIjoxNzc1MzM0NjA5fQ.88ei0lz_MUN4hFXPSGsYNy1Dmf__EYYm_xzruniit94"
+  },
+  "generationTimeMs": 37010
+}

@@ -1,0 +1,14 @@
+{
+  "orderId": "b1452176-8d4d-4051-886b-2b64b4b8dbcd",
+  "address": "4419 Victory Dr, Kansas City, KS 66102, USA",
+  "county": "Wyandotte County",
+  "state": "KS",
+  "status": "failed",
+  "recommendation": null,
+  "packetType": "full",
+  "valuation": {},
+  "assessment": {},
+  "compsCount": 0,
+  "docUrls": {},
+  "generationTimeMs": null
+}

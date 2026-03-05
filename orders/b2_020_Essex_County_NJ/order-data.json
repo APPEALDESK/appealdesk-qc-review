@@ -1,0 +1,122 @@
+{
+  "orderId": "50d00e62-da0c-4d89-a09e-91a3af78581d",
+  "address": "321 N 11th St, Newark, NJ 07107, USA",
+  "county": "Essex County",
+  "state": "NJ",
+  "status": "do_not_appeal",
+  "recommendation": "DO_NOT_APPEAL",
+  "packetType": "do_not_appeal",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 1.25,
+      "quantarium": 0.85
+    },
+    "medianPsf": 300,
+    "packetType": "do_not_appeal",
+    "searchTier": "QUANTARIUM",
+    "_dataSource": "quantarium",
+    "avmEstimate": 455180,
+    "avmRangeLow": 409662,
+    "marketValue": 455180,
+    "medianPrice": 480000,
+    "avmRangeHigh": 500698,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 100,
+        "searchedRatio": 100,
+        "registrySource": "https://www.state.nj.us/treasury/taxation/lpt/localtax.shtml",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "DO_NOT_APPEAL",
+      "assessmentRatio": 1,
+      "countyAppraisedValue": 169000,
+      "marketValueFromComps": 455180,
+      "overassessmentAmount": -286180,
+      "potentialAnnualSavings": 0
+    },
+    "assessedValue": 169000,
+    "confidenceGate": {
+      "gates": [
+        {
+          "check": "UNDERASSESSED_BY_AVM",
+          "passed": false,
+          "message": "AVM ($484,323) exceeds county appraised value ($169,000) by 187%. Filing an appeal could trigger a reassessment UPWARD.",
+          "severity": "CRITICAL"
+        }
+      ],
+      "passed": false,
+      "reason": "AVM ($484,323) exceeds county appraised value ($169,000) by 187%. Filing an appeal could trigger a reassessment UPWARD.",
+      "confidence": "VERY_LOW",
+      "gateAction": "BLOCK_REVIEW",
+      "warningCount": 0,
+      "criticalCount": 1
+    },
+    "isOverassessed": false,
+    "searchMetadata": {
+      "tierName": "QUANTARIUM",
+      "compsFound": 15,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 0,
+      "confidenceGate": {
+        "gates": [
+          {
+            "check": "UNDERASSESSED_BY_AVM",
+            "passed": false,
+            "message": "AVM ($484,323) exceeds county appraised value ($169,000) by 187%. Filing an appeal could trigger a reassessment UPWARD.",
+            "severity": "CRITICAL"
+          }
+        ],
+        "passed": false,
+        "reason": "AVM ($484,323) exceeds county appraised value ($169,000) by 187%. Filing an appeal could trigger a reassessment UPWARD.",
+        "confidence": "VERY_LOW",
+        "gateAction": "BLOCK_REVIEW",
+        "warningCount": 0,
+        "criticalCount": 1
+      },
+      "monthsSearched": 24,
+      "dataQualityNote": "Comparable sales sourced from Quantarium (fallback provider).",
+      "outliersRemoved": 0,
+      "tierDescription": "Quantarium comparable sales (fallback provider)",
+      "isExpandedSearch": true
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "full",
+    "impliedFairValue": 455180,
+    "_quantariumCalled": true,
+    "medianPricePerSqft": 300,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 169000,
+    "overassessmentAmount": -286180,
+    "_quantariumCompsAdded": 0,
+    "valuationPricePerSqft": 281,
+    "potentialAnnualSavings": 0
+  },
+  "assessment": {
+    "year": 2024,
+    "history": {},
+    "_provider": "quantarium",
+    "annualTax": 6427.07,
+    "landValue": 0,
+    "taxHistory": {},
+    "totalValue": 169000,
+    "_rawAssessedValue": 169000,
+    "countyMarketValue": 169000,
+    "improvementsValue": 0,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 484323
+  },
+  "compsCount": 15,
+  "docUrls": {
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/50d00e62-da0c-4d89-a09e-91a3af78581d/3_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzUwZDAwZTYyLWRhMGMtNGQ4OS1hMDllLTkxYTNhZjc4NTgxZC8zX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3Mjc0MjkwNywiZXhwIjoxNzc1MzM0OTA3fQ.dN2OvC7mB8tLtLcWToD7VP0z8fEThzjRRp7ACJtQQuU",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/50d00e62-da0c-4d89-a09e-91a3af78581d/1_Your_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzUwZDAwZTYyLWRhMGMtNGQ4OS1hMDllLTkxYTNhZjc4NTgxZC8xX1lvdXJfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3Mjc0MjkwNywiZXhwIjoxNzc1MzM0OTA3fQ.M7sZPAHrpBlfWFHIMIC7SxwjKKag3fg2zkEsXcZh1Xg",
+    "analysisSummary": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/50d00e62-da0c-4d89-a09e-91a3af78581d/2_Your_Analysis_Summary.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzUwZDAwZTYyLWRhMGMtNGQ4OS1hMDllLTkxYTNhZjc4NTgxZC8yX1lvdXJfQW5hbHlzaXNfU3VtbWFyeS5wZGYiLCJpYXQiOjE3NzI3NDI5MDcsImV4cCI6MTc3NTMzNDkwN30.AAl3g0Pc7pYETZclWSifTfG_4aUNN8KimgDvxs8zgUQ"
+  },
+  "generationTimeMs": 27388
+}

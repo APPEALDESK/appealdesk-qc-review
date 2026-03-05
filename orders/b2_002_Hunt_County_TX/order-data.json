@@ -1,0 +1,108 @@
+{
+  "orderId": "a48bc789-59b9-4b20-9b95-bc6d1607ad36",
+  "address": "124 Carol Dr, Quinlan, TX 75474, USA",
+  "county": "Hunt County",
+  "state": "TX",
+  "status": "do_not_appeal",
+  "recommendation": "DO_NOT_APPEAL",
+  "packetType": "do_not_appeal",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 1.25,
+      "quantarium": 0.85
+    },
+    "medianPsf": 178,
+    "packetType": "do_not_appeal",
+    "searchTier": "BEST_AVAILABLE",
+    "_dataSource": "reapi+quantarium",
+    "avmEstimate": 240484,
+    "avmRangeLow": 216436,
+    "marketValue": 240484,
+    "medianPrice": 234000,
+    "avmRangeHigh": 264532,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 100,
+        "searchedRatio": 100,
+        "registrySource": "https://comptroller.texas.gov/taxes/property-tax/",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "DO_NOT_APPEAL",
+      "assessmentRatio": 1,
+      "countyAppraisedValue": 149450,
+      "marketValueFromComps": 240484,
+      "overassessmentAmount": -91034,
+      "potentialAnnualSavings": 0
+    },
+    "assessedValue": 97348,
+    "confidenceGate": {
+      "gates": [],
+      "passed": true,
+      "reason": "All confidence checks passed",
+      "confidence": "HIGH",
+      "gateAction": "PROCEED",
+      "warningCount": 0,
+      "criticalCount": 0
+    },
+    "isOverassessed": false,
+    "searchMetadata": {
+      "tierName": "BEST_AVAILABLE",
+      "compsFound": 7,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 5,
+      "confidenceGate": {
+        "gates": [],
+        "passed": true,
+        "reason": "All confidence checks passed",
+        "confidence": "HIGH",
+        "gateAction": "PROCEED",
+        "warningCount": 0,
+        "criticalCount": 0
+      },
+      "monthsSearched": 24,
+      "dataQualityNote": "REAPI comps supplemented with 7 Quantarium comps.",
+      "outliersRemoved": 0,
+      "tierDescription": "Widest search for any comparable data",
+      "isExpandedSearch": true
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "full",
+    "impliedFairValue": 240484,
+    "_quantariumCalled": true,
+    "medianPricePerSqft": 178,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 149450,
+    "overassessmentAmount": -91034,
+    "_quantariumCompsAdded": 7,
+    "valuationPricePerSqft": 159,
+    "potentialAnnualSavings": 0
+  },
+  "assessment": {
+    "year": 2025,
+    "history": {},
+    "_provider": "reapi",
+    "annualTax": 874.09,
+    "landValue": 48740,
+    "taxHistory": {},
+    "totalValue": 97348,
+    "_rawAssessedValue": 97348,
+    "countyMarketValue": 149450,
+    "improvementsValue": 100710,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 211000
+  },
+  "compsCount": 7,
+  "docUrls": {
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/a48bc789-59b9-4b20-9b95-bc6d1607ad36/3_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2E0OGJjNzg5LTU5YjktNGIyMC05Yjk1LWJjNmQxNjA3YWQzNi8zX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3Mjc0MjI0MCwiZXhwIjoxNzc1MzM0MjQwfQ.8oIiNl-9DDecZ4yPLuEVSYIrhi9Nw7gpsfThjg1gC4s",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/a48bc789-59b9-4b20-9b95-bc6d1607ad36/1_Your_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2E0OGJjNzg5LTU5YjktNGIyMC05Yjk1LWJjNmQxNjA3YWQzNi8xX1lvdXJfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3Mjc0MjI0MCwiZXhwIjoxNzc1MzM0MjQwfQ.gx5NvoA9SNQVQFtEMV77q11odplQ__YbRq748KRrmdo",
+    "analysisSummary": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/a48bc789-59b9-4b20-9b95-bc6d1607ad36/2_Your_Analysis_Summary.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2E0OGJjNzg5LTU5YjktNGIyMC05Yjk1LWJjNmQxNjA3YWQzNi8yX1lvdXJfQW5hbHlzaXNfU3VtbWFyeS5wZGYiLCJpYXQiOjE3NzI3NDIyNDAsImV4cCI6MTc3NTMzNDI0MH0.axpj1Sl8zx3H5Xp1rwjPOzzYM7-KH86LlwrElVryD-Y"
+  },
+  "generationTimeMs": 28462
+}

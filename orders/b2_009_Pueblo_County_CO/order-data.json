@@ -1,0 +1,56 @@
+{
+  "orderId": "e7fc965a-a3c7-4fdb-af96-411cc9574230",
+  "address": "1901 Constitution Rd, Pueblo, CO 81001, USA",
+  "county": "Pueblo County",
+  "state": "CO",
+  "status": "completed",
+  "recommendation": "APPEAL",
+  "packetType": "lite",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 1.25,
+      "quantarium": 0.85
+    },
+    "compsCount": 0,
+    "packetType": "lite",
+    "_dataSource": "reapi",
+    "searchMetadata": {
+      "tierName": "BEST_AVAILABLE",
+      "compsFound": 0,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 5,
+      "monthsSearched": 24,
+      "dataQualityNote": "Search expanded to widest search for any comparable data.",
+      "outliersRemoved": 0,
+      "tierDescription": "Widest search for any comparable data",
+      "isExpandedSearch": true
+    },
+    "groundingQuality": "full",
+    "_quantariumCalled": true,
+    "_quantariumCompsAdded": 0
+  },
+  "assessment": {
+    "year": 2024,
+    "history": {},
+    "_provider": "reapi",
+    "annualTax": 95.58,
+    "landValue": 0,
+    "taxHistory": {},
+    "totalValue": 1000,
+    "_rawAssessedValue": 1000,
+    "countyMarketValue": 42460,
+    "improvementsValue": 1000,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 176000
+  },
+  "compsCount": 0,
+  "docUrls": {
+    "coverLetter": null,
+    "filingGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/e7fc965a-a3c7-4fdb-af96-411cc9574230/1_READ_FIRST_Your_Filing_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2U3ZmM5NjVhLWEzYzctNGZkYi1hZjk2LTQxMWNjOTU3NDIzMC8xX1JFQURfRklSU1RfWW91cl9GaWxpbmdfR3VpZGUucGRmIiwiaWF0IjoxNzcyNzQyNTMwLCJleHAiOjE3NzUzMzQ1MzB9.W2wUgElJb5PKEV4XvrV8EVilIGS7E6muhGXALVn6Trw",
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/e7fc965a-a3c7-4fdb-af96-411cc9574230/2_BONUS_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2U3ZmM5NjVhLWEzYzctNGZkYi1hZjk2LTQxMWNjOTU3NDIzMC8yX0JPTlVTX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3Mjc0MjUzMCwiZXhwIjoxNzc1MzM0NTMwfQ.nHzklmpS5GV4fL9v-1UkUajHozs7X7YVZaOdFsbavgg",
+    "evidencePacket": null
+  },
+  "generationTimeMs": 30104
+}

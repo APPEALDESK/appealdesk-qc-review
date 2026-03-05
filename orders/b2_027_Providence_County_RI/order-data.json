@@ -1,0 +1,109 @@
+{
+  "orderId": "12e75f5a-d71a-43ac-b647-50d2d71e9936",
+  "address": "15 Glasgow St, Providence, RI 02908, USA",
+  "county": "Providence County",
+  "state": "RI",
+  "status": "completed",
+  "recommendation": "APPEAL",
+  "packetType": "full",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 0.4,
+      "quantarium": 0
+    },
+    "medianPsf": 194,
+    "packetType": "full",
+    "searchTier": "EXPANDED",
+    "_dataSource": "reapi",
+    "avmEstimate": 520181,
+    "avmRangeLow": 468163,
+    "marketValue": 520181,
+    "medianPrice": 495000,
+    "avmRangeHigh": 572199,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 100,
+        "searchedRatio": 100,
+        "registrySource": "https://www.ri.gov/taxation/",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "APPEAL",
+      "assessmentRatio": 1,
+      "countyAppraisedValue": 672000,
+      "marketValueFromComps": 520181,
+      "overassessmentAmount": 151819,
+      "potentialAnnualSavings": 1823
+    },
+    "assessedValue": 576400,
+    "confidenceGate": {
+      "gates": [],
+      "passed": true,
+      "reason": "All confidence checks passed",
+      "confidence": "HIGH",
+      "gateAction": "PROCEED",
+      "warningCount": 0,
+      "criticalCount": 0
+    },
+    "isOverassessed": true,
+    "searchMetadata": {
+      "tierName": "EXPANDED",
+      "compsFound": 7,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 0.7,
+      "confidenceGate": {
+        "gates": [],
+        "passed": true,
+        "reason": "All confidence checks passed",
+        "confidence": "HIGH",
+        "gateAction": "PROCEED",
+        "warningCount": 0,
+        "criticalCount": 0
+      },
+      "monthsSearched": 12,
+      "dataQualityNote": "Search expanded to recent sales of similar homes in area.",
+      "outliersRemoved": 0,
+      "tierDescription": "Recent sales of similar homes in area",
+      "isExpandedSearch": true
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "full",
+    "impliedFairValue": 520181,
+    "_quantariumCalled": false,
+    "medianPricePerSqft": 194,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 672000,
+    "overassessmentAmount": 151819,
+    "_quantariumCompsAdded": 0,
+    "valuationPricePerSqft": 179,
+    "potentialAnnualSavings": 1823
+  },
+  "assessment": {
+    "year": 2025,
+    "history": {},
+    "_provider": "reapi",
+    "annualTax": 8070,
+    "landValue": 133700,
+    "taxHistory": {},
+    "totalValue": 576400,
+    "_rawAssessedValue": 576400,
+    "countyMarketValue": 672000,
+    "improvementsValue": 442700,
+    "_marketValueSource": "estimatedValue",
+    "_reapiEstimatedValue": 672000
+  },
+  "compsCount": 7,
+  "docUrls": {
+    "coverLetter": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/12e75f5a-d71a-43ac-b647-50d2d71e9936/3_ATTACH_TO_APPEAL_Cover_Letter.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzEyZTc1ZjVhLWQ3MWEtNDNhYy1iNjQ3LTUwZDJkNzFlOTkzNi8zX0FUVEFDSF9UT19BUFBFQUxfQ292ZXJfTGV0dGVyLnBkZiIsImlhdCI6MTc3Mjc0MzI0OSwiZXhwIjoxNzc1MzM1MjQ5fQ.9iHERq-GvFN9Joo0E-j5Dp4UcgfLEjkCt8SrHJnBxqQ",
+    "filingGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/12e75f5a-d71a-43ac-b647-50d2d71e9936/1_READ_FIRST_Your_Filing_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzEyZTc1ZjVhLWQ3MWEtNDNhYy1iNjQ3LTUwZDJkNzFlOTkzNi8xX1JFQURfRklSU1RfWW91cl9GaWxpbmdfR3VpZGUucGRmIiwiaWF0IjoxNzcyNzQzMjQ5LCJleHAiOjE3NzUzMzUyNDl9.9JanbMN1OQ7LNiEc5aLlaGt04o8axxfQJ00NE64LB78",
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/12e75f5a-d71a-43ac-b647-50d2d71e9936/5_BONUS_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzEyZTc1ZjVhLWQ3MWEtNDNhYy1iNjQ3LTUwZDJkNzFlOTkzNi81X0JPTlVTX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3Mjc0MzI0OSwiZXhwIjoxNzc1MzM1MjQ5fQ.PgWoJecrhrvS08-h6YcW4YagXNIYxyxOgnAfUExmr40",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/12e75f5a-d71a-43ac-b647-50d2d71e9936/2_ATTACH_TO_APPEAL_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzEyZTc1ZjVhLWQ3MWEtNDNhYy1iNjQ3LTUwZDJkNzFlOTkzNi8yX0FUVEFDSF9UT19BUFBFQUxfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3Mjc0MzI0OSwiZXhwIjoxNzc1MzM1MjQ5fQ._jNRg5PsR_k11sCKNkP6j06LWOymvSTzJgWlpXO-Hes"
+  },
+  "generationTimeMs": 35267
+}

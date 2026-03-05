@@ -1,0 +1,108 @@
+{
+  "orderId": "04df7e31-21c1-47a7-a4e8-d01327ea666f",
+  "address": "2203 E Everett Ave, Spokane, WA 99207, USA",
+  "county": "Spokane County",
+  "state": "WA",
+  "status": "do_not_appeal",
+  "recommendation": "DO_NOT_APPEAL",
+  "packetType": "do_not_appeal",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 0.4,
+      "quantarium": 0
+    },
+    "medianPsf": 166,
+    "packetType": "do_not_appeal",
+    "searchTier": "EXPANDED",
+    "_dataSource": "reapi",
+    "avmEstimate": 306115,
+    "avmRangeLow": 275504,
+    "marketValue": 306115,
+    "medianPrice": 300000,
+    "avmRangeHigh": 336727,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 100,
+        "searchedRatio": 100,
+        "registrySource": "https://dor.wa.gov/taxes-rates/property-tax",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "DO_NOT_APPEAL",
+      "assessmentRatio": 1,
+      "countyAppraisedValue": 247700,
+      "marketValueFromComps": 306115,
+      "overassessmentAmount": -58415,
+      "potentialAnnualSavings": 0
+    },
+    "assessedValue": 247700,
+    "confidenceGate": {
+      "gates": [],
+      "passed": true,
+      "reason": "All confidence checks passed",
+      "confidence": "HIGH",
+      "gateAction": "PROCEED",
+      "warningCount": 0,
+      "criticalCount": 0
+    },
+    "isOverassessed": false,
+    "searchMetadata": {
+      "tierName": "EXPANDED",
+      "compsFound": 3,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 1,
+      "confidenceGate": {
+        "gates": [],
+        "passed": true,
+        "reason": "All confidence checks passed",
+        "confidence": "HIGH",
+        "gateAction": "PROCEED",
+        "warningCount": 0,
+        "criticalCount": 0
+      },
+      "monthsSearched": 12,
+      "dataQualityNote": "Search expanded to recent sales of similar homes in area.",
+      "outliersRemoved": 1,
+      "tierDescription": "Recent sales of similar homes in area",
+      "isExpandedSearch": true
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "full",
+    "impliedFairValue": 306115,
+    "_quantariumCalled": false,
+    "medianPricePerSqft": 166,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 247700,
+    "overassessmentAmount": -58415,
+    "_quantariumCompsAdded": 0,
+    "valuationPricePerSqft": 159,
+    "potentialAnnualSavings": 0
+  },
+  "assessment": {
+    "year": 2026,
+    "history": {},
+    "_provider": "reapi",
+    "annualTax": 2462.75,
+    "landValue": 60000,
+    "taxHistory": {},
+    "totalValue": 247700,
+    "_rawAssessedValue": 247700,
+    "countyMarketValue": 247700,
+    "improvementsValue": 187700,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 312000
+  },
+  "compsCount": 3,
+  "docUrls": {
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/04df7e31-21c1-47a7-a4e8-d01327ea666f/3_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzA0ZGY3ZTMxLTIxYzEtNDdhNy1hNGU4LWQwMTMyN2VhNjY2Zi8zX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3Mjc0MjU2MiwiZXhwIjoxNzc1MzM0NTYyfQ.mBvsc-iqtk3aqxq4-cXefH6mKtuKgorGuokcNp6-q4Y",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/04df7e31-21c1-47a7-a4e8-d01327ea666f/1_Your_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzA0ZGY3ZTMxLTIxYzEtNDdhNy1hNGU4LWQwMTMyN2VhNjY2Zi8xX1lvdXJfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3Mjc0MjU2MiwiZXhwIjoxNzc1MzM0NTYyfQ.4jG-NyPJzXbRogm1EAqwnCbRvckRMtOZIDqKQUzyg30",
+    "analysisSummary": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/04df7e31-21c1-47a7-a4e8-d01327ea666f/2_Your_Analysis_Summary.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzA0ZGY3ZTMxLTIxYzEtNDdhNy1hNGU4LWQwMTMyN2VhNjY2Zi8yX1lvdXJfQW5hbHlzaXNfU3VtbWFyeS5wZGYiLCJpYXQiOjE3NzI3NDI1NjIsImV4cCI6MTc3NTMzNDU2Mn0.nM5Auaw0uA9EHc-yfTjPeu1U7ap214ERpfGWLJhf-es"
+  },
+  "generationTimeMs": 27677
+}

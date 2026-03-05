@@ -1,0 +1,108 @@
+{
+  "orderId": "413aae17-f5de-433b-9c62-ba6b337d17fd",
+  "address": "13 Sheridan St NW, Washington, DC 20011, USA",
+  "county": "Washington",
+  "state": "DC",
+  "status": "do_not_appeal",
+  "recommendation": "DO_NOT_APPEAL",
+  "packetType": "do_not_appeal",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 0.4,
+      "quantarium": 0
+    },
+    "medianPsf": 530,
+    "packetType": "do_not_appeal",
+    "searchTier": "EXPANDED",
+    "_dataSource": "reapi",
+    "avmEstimate": 486234,
+    "avmRangeLow": 437611,
+    "marketValue": 486234,
+    "medianPrice": 610000,
+    "avmRangeHigh": 534857,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 100,
+        "searchedRatio": 100,
+        "registrySource": "https://otr.cfo.dc.gov/page/real-property-tax-rates",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "DO_NOT_APPEAL",
+      "assessmentRatio": 1,
+      "countyAppraisedValue": 491150,
+      "marketValueFromComps": 486234,
+      "overassessmentAmount": 4916,
+      "potentialAnnualSavings": 0
+    },
+    "assessedValue": 491150,
+    "confidenceGate": {
+      "gates": [],
+      "passed": true,
+      "reason": "All confidence checks passed",
+      "confidence": "HIGH",
+      "gateAction": "PROCEED",
+      "warningCount": 0,
+      "criticalCount": 0
+    },
+    "isOverassessed": true,
+    "searchMetadata": {
+      "tierName": "EXPANDED",
+      "compsFound": 3,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 0.9,
+      "confidenceGate": {
+        "gates": [],
+        "passed": true,
+        "reason": "All confidence checks passed",
+        "confidence": "HIGH",
+        "gateAction": "PROCEED",
+        "warningCount": 0,
+        "criticalCount": 0
+      },
+      "monthsSearched": 12,
+      "dataQualityNote": "Search expanded to recent sales of similar homes in area.",
+      "outliersRemoved": 0,
+      "tierDescription": "Recent sales of similar homes in area",
+      "isExpandedSearch": true
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "full",
+    "impliedFairValue": 486234,
+    "_quantariumCalled": false,
+    "medianPricePerSqft": 530,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 491150,
+    "overassessmentAmount": 4916,
+    "_quantariumCompsAdded": 0,
+    "valuationPricePerSqft": 447,
+    "potentialAnnualSavings": 123
+  },
+  "assessment": {
+    "year": 2025,
+    "history": {},
+    "_provider": "reapi",
+    "annualTax": 3411.06,
+    "landValue": 340140,
+    "taxHistory": {},
+    "totalValue": 491150,
+    "_rawAssessedValue": 491150,
+    "countyMarketValue": 491150,
+    "improvementsValue": 151010,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 491150
+  },
+  "compsCount": 3,
+  "docUrls": {
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/413aae17-f5de-433b-9c62-ba6b337d17fd/3_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzQxM2FhZTE3LWY1ZGUtNDMzYi05YzYyLWJhNmIzMzdkMTdmZC8zX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3Mjc0MzMyOCwiZXhwIjoxNzc1MzM1MzI4fQ.QwLNBh-9lpkvp03J9gLGUragpAplueIpChDmPdl2kpM",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/413aae17-f5de-433b-9c62-ba6b337d17fd/1_Your_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzQxM2FhZTE3LWY1ZGUtNDMzYi05YzYyLWJhNmIzMzdkMTdmZC8xX1lvdXJfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3Mjc0MzMyOCwiZXhwIjoxNzc1MzM1MzI4fQ.x4aQ-E-5N3_aBih_tXvqagx20YLI7-gqS2b4WsrWQHk",
+    "analysisSummary": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/413aae17-f5de-433b-9c62-ba6b337d17fd/2_Your_Analysis_Summary.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzQxM2FhZTE3LWY1ZGUtNDMzYi05YzYyLWJhNmIzMzdkMTdmZC8yX1lvdXJfQW5hbHlzaXNfU3VtbWFyeS5wZGYiLCJpYXQiOjE3NzI3NDMzMjgsImV4cCI6MTc3NTMzNTMyOH0.ExLutmPFJev3Ss6EtVn8sYPKMRME-8FrFazLSUTCEKE"
+  },
+  "generationTimeMs": 32940
+}

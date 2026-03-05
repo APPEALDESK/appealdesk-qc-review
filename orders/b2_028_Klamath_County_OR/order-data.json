@@ -1,0 +1,109 @@
+{
+  "orderId": "93721fe3-2f97-40d6-8cdb-4fd078a64bd8",
+  "address": "10465 McGuire Ave, Klamath Falls, OR 97603, USA",
+  "county": "Klamath County",
+  "state": "OR",
+  "status": "completed",
+  "recommendation": "APPEAL",
+  "packetType": "full",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 0.4,
+      "quantarium": 0
+    },
+    "medianPsf": 207,
+    "packetType": "full",
+    "searchTier": "EXPANDED",
+    "_dataSource": "reapi",
+    "avmEstimate": 162750,
+    "avmRangeLow": 146475,
+    "marketValue": 162750,
+    "medianPrice": 210000,
+    "avmRangeHigh": 179025,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 100,
+        "searchedRatio": 100,
+        "registrySource": "https://www.oregon.gov/dor/programs/property/Pages/index.aspx",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "APPEAL",
+      "assessmentRatio": 1,
+      "countyAppraisedValue": 248770,
+      "marketValueFromComps": 162750,
+      "overassessmentAmount": 86020,
+      "potentialAnnualSavings": 502
+    },
+    "assessedValue": 97700,
+    "confidenceGate": {
+      "gates": [],
+      "passed": true,
+      "reason": "All confidence checks passed",
+      "confidence": "HIGH",
+      "gateAction": "PROCEED",
+      "warningCount": 0,
+      "criticalCount": 0
+    },
+    "isOverassessed": true,
+    "searchMetadata": {
+      "tierName": "EXPANDED",
+      "compsFound": 3,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 0.1,
+      "confidenceGate": {
+        "gates": [],
+        "passed": true,
+        "reason": "All confidence checks passed",
+        "confidence": "HIGH",
+        "gateAction": "PROCEED",
+        "warningCount": 0,
+        "criticalCount": 0
+      },
+      "monthsSearched": 12,
+      "dataQualityNote": "Search expanded to recent sales of similar homes in area.",
+      "outliersRemoved": 0,
+      "tierDescription": "Recent sales of similar homes in area",
+      "isExpandedSearch": true
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "full",
+    "impliedFairValue": 162750,
+    "_quantariumCalled": false,
+    "medianPricePerSqft": 207,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 248770,
+    "overassessmentAmount": 86020,
+    "_quantariumCompsAdded": 0,
+    "valuationPricePerSqft": 147,
+    "potentialAnnualSavings": 502
+  },
+  "assessment": {
+    "year": 2025,
+    "history": {},
+    "_provider": "reapi",
+    "annualTax": 1450.52,
+    "landValue": 0,
+    "taxHistory": {},
+    "totalValue": 97700,
+    "_rawAssessedValue": 97700,
+    "countyMarketValue": 248770,
+    "improvementsValue": 0,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 222000
+  },
+  "compsCount": 3,
+  "docUrls": {
+    "coverLetter": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/93721fe3-2f97-40d6-8cdb-4fd078a64bd8/3_ATTACH_TO_APPEAL_Cover_Letter.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzkzNzIxZmUzLTJmOTctNDBkNi04Y2RiLTRmZDA3OGE2NGJkOC8zX0FUVEFDSF9UT19BUFBFQUxfQ292ZXJfTGV0dGVyLnBkZiIsImlhdCI6MTc3Mjc0MzI5MCwiZXhwIjoxNzc1MzM1MjkwfQ.mozIDwYeFuNiEh3zVpRNA2NDyJM7KuWfyeg0kE-ErVk",
+    "filingGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/93721fe3-2f97-40d6-8cdb-4fd078a64bd8/1_READ_FIRST_Your_Filing_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzkzNzIxZmUzLTJmOTctNDBkNi04Y2RiLTRmZDA3OGE2NGJkOC8xX1JFQURfRklSU1RfWW91cl9GaWxpbmdfR3VpZGUucGRmIiwiaWF0IjoxNzcyNzQzMjg5LCJleHAiOjE3NzUzMzUyODl9.jyhUGbMBfNnl_CWlfeZnt9PneUae-J6oEImSA0nmjck",
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/93721fe3-2f97-40d6-8cdb-4fd078a64bd8/5_BONUS_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzkzNzIxZmUzLTJmOTctNDBkNi04Y2RiLTRmZDA3OGE2NGJkOC81X0JPTlVTX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3Mjc0MzI4OSwiZXhwIjoxNzc1MzM1Mjg5fQ.0b_hxKz6A49hr09hHJniCOL9Os-lsvmF4hJUDjkBEKI",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/93721fe3-2f97-40d6-8cdb-4fd078a64bd8/2_ATTACH_TO_APPEAL_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzkzNzIxZmUzLTJmOTctNDBkNi04Y2RiLTRmZDA3OGE2NGJkOC8yX0FUVEFDSF9UT19BUFBFQUxfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3Mjc0MzI5MCwiZXhwIjoxNzc1MzM1MjkwfQ.OodZavCv6KQHwe6mEe0pNowKjGYrDE9NV-tJXZU77hQ"
+  },
+  "generationTimeMs": 34324
+}

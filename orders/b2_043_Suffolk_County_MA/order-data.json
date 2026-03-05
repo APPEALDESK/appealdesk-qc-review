@@ -1,0 +1,14 @@
+{
+  "orderId": "d9d1856d-918e-4c0e-8776-97a3c15b61ed",
+  "address": "55 Woodruff Way, Mattapan, MA 02126, USA",
+  "county": "Suffolk County",
+  "state": "MA",
+  "status": "failed",
+  "recommendation": null,
+  "packetType": "full",
+  "valuation": {},
+  "assessment": {},
+  "compsCount": 0,
+  "docUrls": {},
+  "generationTimeMs": null
+}

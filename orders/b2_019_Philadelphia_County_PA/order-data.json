@@ -1,0 +1,14 @@
+{
+  "orderId": "ed196593-37cb-4817-89a3-0092cf03975c",
+  "address": "909 N 42nd St, Philadelphia, PA 19104, USA",
+  "county": "Philadelphia County",
+  "state": "PA",
+  "status": "quality_gate_failed",
+  "recommendation": null,
+  "packetType": "full",
+  "valuation": {},
+  "assessment": {},
+  "compsCount": 0,
+  "docUrls": {},
+  "generationTimeMs": null
+}

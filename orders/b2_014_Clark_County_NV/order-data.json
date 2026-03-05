@@ -1,0 +1,14 @@
+{
+  "orderId": "26dfdb14-19db-40f2-afb9-0b2a4a9b52fb",
+  "address": "2627 S Lamb Blvd, Las Vegas, NV 89121, USA",
+  "county": "Clark County",
+  "state": "NV",
+  "status": "failed",
+  "recommendation": null,
+  "packetType": "full",
+  "valuation": {},
+  "assessment": {},
+  "compsCount": 0,
+  "docUrls": {},
+  "generationTimeMs": null
+}

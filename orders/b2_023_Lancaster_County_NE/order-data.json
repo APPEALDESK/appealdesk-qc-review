@@ -1,0 +1,108 @@
+{
+  "orderId": "70d394e1-d5b8-4995-804b-d1d653a65f06",
+  "address": "4125 N 23rd St, Lincoln, NE 68521, USA",
+  "county": "Lancaster County",
+  "state": "NE",
+  "status": "do_not_appeal",
+  "recommendation": "DO_NOT_APPEAL",
+  "packetType": "do_not_appeal",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 1.25,
+      "quantarium": 0.85
+    },
+    "medianPsf": 237,
+    "packetType": "do_not_appeal",
+    "searchTier": "QUANTARIUM",
+    "_dataSource": "quantarium",
+    "avmEstimate": 219650,
+    "avmRangeLow": 197685,
+    "marketValue": 219650,
+    "medianPrice": 247996,
+    "avmRangeHigh": 241615,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 100,
+        "searchedRatio": 100,
+        "registrySource": "https://revenue.nebraska.gov/PAD",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "DO_NOT_APPEAL",
+      "assessmentRatio": 1,
+      "countyAppraisedValue": 222800,
+      "marketValueFromComps": 219650,
+      "overassessmentAmount": 3150,
+      "potentialAnnualSavings": 0
+    },
+    "assessedValue": 222800,
+    "confidenceGate": {
+      "gates": [],
+      "passed": true,
+      "reason": "All confidence checks passed",
+      "confidence": "HIGH",
+      "gateAction": "PROCEED",
+      "warningCount": 0,
+      "criticalCount": 0
+    },
+    "isOverassessed": true,
+    "searchMetadata": {
+      "tierName": "QUANTARIUM",
+      "compsFound": 15,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 0,
+      "confidenceGate": {
+        "gates": [],
+        "passed": true,
+        "reason": "All confidence checks passed",
+        "confidence": "HIGH",
+        "gateAction": "PROCEED",
+        "warningCount": 0,
+        "criticalCount": 0
+      },
+      "monthsSearched": 24,
+      "dataQualityNote": "Comparable sales sourced from Quantarium (fallback provider).",
+      "outliersRemoved": 0,
+      "tierDescription": "Quantarium comparable sales (fallback provider)",
+      "isExpandedSearch": true
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "full",
+    "impliedFairValue": 219650,
+    "_quantariumCalled": true,
+    "medianPricePerSqft": 237,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 222800,
+    "overassessmentAmount": 3150,
+    "_quantariumCompsAdded": 0,
+    "valuationPricePerSqft": 217,
+    "potentialAnnualSavings": 79
+  },
+  "assessment": {
+    "year": 2025,
+    "history": {},
+    "_provider": "quantarium",
+    "annualTax": 3935.66,
+    "landValue": 0,
+    "taxHistory": {},
+    "totalValue": 222800,
+    "_rawAssessedValue": 222800,
+    "countyMarketValue": 222800,
+    "improvementsValue": 0,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 245588
+  },
+  "compsCount": 15,
+  "docUrls": {
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/70d394e1-d5b8-4995-804b-d1d653a65f06/3_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzcwZDM5NGUxLWQ1YjgtNDk5NS04MDRiLWQxZDY1M2E2NWYwNi8zX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3Mjc0MzA1MCwiZXhwIjoxNzc1MzM1MDUwfQ.MEgAU75nIqFVBGbsdd5Kw1RC6Ym-J1HR40-Y5nTORnc",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/70d394e1-d5b8-4995-804b-d1d653a65f06/1_Your_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzcwZDM5NGUxLWQ1YjgtNDk5NS04MDRiLWQxZDY1M2E2NWYwNi8xX1lvdXJfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3Mjc0MzA1MCwiZXhwIjoxNzc1MzM1MDUwfQ.7Vp88CKRpj3atiRWwztpH23UMn9yPAXJqCodIOsSQMg",
+    "analysisSummary": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/70d394e1-d5b8-4995-804b-d1d653a65f06/2_Your_Analysis_Summary.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzcwZDM5NGUxLWQ1YjgtNDk5NS04MDRiLWQxZDY1M2E2NWYwNi8yX1lvdXJfQW5hbHlzaXNfU3VtbWFyeS5wZGYiLCJpYXQiOjE3NzI3NDMwNTAsImV4cCI6MTc3NTMzNTA1MH0.OZqN9qOVa9Y5-l0FwdSWSqb6IX3BdSRgsLjgJ00dCVI"
+  },
+  "generationTimeMs": 28835
+}

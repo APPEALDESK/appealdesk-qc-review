@@ -1,0 +1,14 @@
+{
+  "orderId": "78db6530-107e-4f2e-b430-f40ed863fffd",
+  "address": "5575 Middle Ridge Rd, Madison, OH 44057, USA",
+  "county": "Lake County",
+  "state": "OH",
+  "status": "refund_pending",
+  "recommendation": null,
+  "packetType": "full",
+  "valuation": {},
+  "assessment": {},
+  "compsCount": 0,
+  "docUrls": {},
+  "generationTimeMs": null
+}

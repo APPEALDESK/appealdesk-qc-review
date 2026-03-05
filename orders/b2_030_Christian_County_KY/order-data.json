@@ -1,0 +1,122 @@
+{
+  "orderId": "0fd028dd-ece0-4202-96c8-b4ff422fb27d",
+  "address": "115 Maple St, Hopkinsville, KY 42240, USA",
+  "county": "Christian County",
+  "state": "KY",
+  "status": "do_not_appeal",
+  "recommendation": "DO_NOT_APPEAL",
+  "packetType": "do_not_appeal",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 1.25,
+      "quantarium": 0.85
+    },
+    "medianPsf": 115,
+    "packetType": "do_not_appeal",
+    "searchTier": "QUANTARIUM",
+    "_dataSource": "quantarium",
+    "avmEstimate": 134315,
+    "avmRangeLow": 120884,
+    "marketValue": 134315,
+    "medianPrice": 159900,
+    "avmRangeHigh": 147747,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 100,
+        "searchedRatio": 100,
+        "registrySource": "https://revenue.ky.gov/Property/Pages/default.aspx",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "DO_NOT_APPEAL",
+      "assessmentRatio": 1,
+      "countyAppraisedValue": 70000,
+      "marketValueFromComps": 134315,
+      "overassessmentAmount": -64315,
+      "potentialAnnualSavings": 0
+    },
+    "assessedValue": 70000,
+    "confidenceGate": {
+      "gates": [
+        {
+          "check": "UNDERASSESSED_BY_AVM",
+          "passed": false,
+          "message": "AVM ($139,040) exceeds county appraised value ($70,000) by 99%. Filing an appeal could trigger a reassessment UPWARD.",
+          "severity": "CRITICAL"
+        }
+      ],
+      "passed": false,
+      "reason": "AVM ($139,040) exceeds county appraised value ($70,000) by 99%. Filing an appeal could trigger a reassessment UPWARD.",
+      "confidence": "VERY_LOW",
+      "gateAction": "BLOCK_REVIEW",
+      "warningCount": 0,
+      "criticalCount": 1
+    },
+    "isOverassessed": false,
+    "searchMetadata": {
+      "tierName": "QUANTARIUM",
+      "compsFound": 13,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 0,
+      "confidenceGate": {
+        "gates": [
+          {
+            "check": "UNDERASSESSED_BY_AVM",
+            "passed": false,
+            "message": "AVM ($139,040) exceeds county appraised value ($70,000) by 99%. Filing an appeal could trigger a reassessment UPWARD.",
+            "severity": "CRITICAL"
+          }
+        ],
+        "passed": false,
+        "reason": "AVM ($139,040) exceeds county appraised value ($70,000) by 99%. Filing an appeal could trigger a reassessment UPWARD.",
+        "confidence": "VERY_LOW",
+        "gateAction": "BLOCK_REVIEW",
+        "warningCount": 0,
+        "criticalCount": 1
+      },
+      "monthsSearched": 24,
+      "dataQualityNote": "Comparable sales sourced from Quantarium (fallback provider).",
+      "outliersRemoved": 0,
+      "tierDescription": "Quantarium comparable sales (fallback provider)",
+      "isExpandedSearch": true
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "full",
+    "impliedFairValue": 134315,
+    "_quantariumCalled": true,
+    "medianPricePerSqft": 115,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 70000,
+    "overassessmentAmount": -64315,
+    "_quantariumCompsAdded": 0,
+    "valuationPricePerSqft": 85,
+    "potentialAnnualSavings": 0
+  },
+  "assessment": {
+    "year": 2025,
+    "history": {},
+    "_provider": "quantarium",
+    "annualTax": 555.4,
+    "landValue": 0,
+    "taxHistory": {},
+    "totalValue": 70000,
+    "_rawAssessedValue": 70000,
+    "countyMarketValue": 70000,
+    "improvementsValue": 0,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 139040
+  },
+  "compsCount": 13,
+  "docUrls": {
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/0fd028dd-ece0-4202-96c8-b4ff422fb27d/3_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzBmZDAyOGRkLWVjZTAtNDIwMi05NmM4LWI0ZmY0MjJmYjI3ZC8zX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3Mjc0MzM2NSwiZXhwIjoxNzc1MzM1MzY1fQ.rIuJl-emhHH67GgEhahCNudRsyx3VwhcItcGlG6g1iU",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/0fd028dd-ece0-4202-96c8-b4ff422fb27d/1_Your_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzBmZDAyOGRkLWVjZTAtNDIwMi05NmM4LWI0ZmY0MjJmYjI3ZC8xX1lvdXJfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3Mjc0MzM2NSwiZXhwIjoxNzc1MzM1MzY1fQ.wnsR_A0wI-4cRpuccR0x_t7_4rT6dxsOcyyG8NX46CI",
+    "analysisSummary": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/0fd028dd-ece0-4202-96c8-b4ff422fb27d/2_Your_Analysis_Summary.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzLzBmZDAyOGRkLWVjZTAtNDIwMi05NmM4LWI0ZmY0MjJmYjI3ZC8yX1lvdXJfQW5hbHlzaXNfU3VtbWFyeS5wZGYiLCJpYXQiOjE3NzI3NDMzNjYsImV4cCI6MTc3NTMzNTM2Nn0.mQs05QhEeCmdRbWMKEaq0gJyPCRjmlTOeu45cLoLYbs"
+  },
+  "generationTimeMs": 32392
+}

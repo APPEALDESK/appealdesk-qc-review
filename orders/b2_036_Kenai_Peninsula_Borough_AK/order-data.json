@@ -1,0 +1,108 @@
+{
+  "orderId": "f928126a-5764-463a-9bc3-afac7c439956",
+  "address": "49843 En Cir, Kenai, AK 99611, USA",
+  "county": "Kenai Peninsula Borough",
+  "state": "AK",
+  "status": "do_not_appeal",
+  "recommendation": "DO_NOT_APPEAL",
+  "packetType": "do_not_appeal",
+  "valuation": {
+    "_apiCosts": {
+      "reapi": 0.4,
+      "total": 1.25,
+      "quantarium": 0.85
+    },
+    "medianPsf": 181,
+    "packetType": "do_not_appeal",
+    "searchTier": "BEST_AVAILABLE",
+    "_dataSource": "reapi+quantarium",
+    "avmEstimate": 323976,
+    "avmRangeLow": 291578,
+    "marketValue": 323976,
+    "medianPrice": 415000,
+    "avmRangeHigh": 356374,
+    "opusAnalysis": {
+      "confidence": "HIGH",
+      "ratioCheck": {
+        "confirmed": true,
+        "difference": 0,
+        "opusConfirmed": true,
+        "registryRatio": 100,
+        "searchedRatio": 100,
+        "registrySource": "https://www.prior.akleg.gov/Agencies/Unified/omb/assessments.asp",
+        "discrepancyNote": null,
+        "isCountyOverride": false
+      },
+      "recommendation": "DO_NOT_APPEAL",
+      "assessmentRatio": 1,
+      "countyAppraisedValue": 310200,
+      "marketValueFromComps": 323976,
+      "overassessmentAmount": -13776,
+      "potentialAnnualSavings": 0
+    },
+    "assessedValue": 310200,
+    "confidenceGate": {
+      "gates": [],
+      "passed": true,
+      "reason": "All confidence checks passed",
+      "confidence": "HIGH",
+      "gateAction": "PROCEED",
+      "warningCount": 0,
+      "criticalCount": 0
+    },
+    "isOverassessed": false,
+    "searchMetadata": {
+      "tierName": "BEST_AVAILABLE",
+      "compsFound": 12,
+      "isIdealData": false,
+      "outlierNote": null,
+      "radiusMiles": 5,
+      "confidenceGate": {
+        "gates": [],
+        "passed": true,
+        "reason": "All confidence checks passed",
+        "confidence": "HIGH",
+        "gateAction": "PROCEED",
+        "warningCount": 0,
+        "criticalCount": 0
+      },
+      "monthsSearched": 24,
+      "dataQualityNote": "REAPI comps supplemented with 12 Quantarium comps.",
+      "outliersRemoved": 0,
+      "tierDescription": "Widest search for any comparable data",
+      "isExpandedSearch": true
+    },
+    "valuationMethod": "psf_25th_percentile",
+    "groundingQuality": "none",
+    "impliedFairValue": 323976,
+    "_quantariumCalled": true,
+    "medianPricePerSqft": 181,
+    "valuationPercentile": 25,
+    "countyAppraisedValue": 310200,
+    "overassessmentAmount": -13776,
+    "_quantariumCompsAdded": 12,
+    "valuationPricePerSqft": 138,
+    "potentialAnnualSavings": 0
+  },
+  "assessment": {
+    "year": 2025,
+    "history": {},
+    "_provider": "reapi",
+    "annualTax": 0,
+    "landValue": 38700,
+    "taxHistory": {},
+    "totalValue": 310200,
+    "_rawAssessedValue": 310200,
+    "countyMarketValue": 310200,
+    "improvementsValue": 271500,
+    "_marketValueSource": "marketValue",
+    "_reapiEstimatedValue": 310200
+  },
+  "compsCount": 12,
+  "docUrls": {
+    "savingsGuide": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/f928126a-5764-463a-9bc3-afac7c439956/3_Homeowner_Savings_Guide.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2Y5MjgxMjZhLTU3NjQtNDYzYS05YmMzLWFmYWM3YzQzOTk1Ni8zX0hvbWVvd25lcl9TYXZpbmdzX0d1aWRlLnBkZiIsImlhdCI6MTc3Mjc0MzYyMSwiZXhwIjoxNzc1MzM1NjIxfQ.jRE1XgQcPltwcgSXHG-UsPKcTlgmIb9SdxUg2-lBYB4",
+    "evidencePacket": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/f928126a-5764-463a-9bc3-afac7c439956/1_Your_Evidence_Packet.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2Y5MjgxMjZhLTU3NjQtNDYzYS05YmMzLWFmYWM3YzQzOTk1Ni8xX1lvdXJfRXZpZGVuY2VfUGFja2V0LnBkZiIsImlhdCI6MTc3Mjc0MzYyMSwiZXhwIjoxNzc1MzM1NjIxfQ.lingApuBBHzxv2fwTpIAvDC-iRGw9bBi1NerY30eqw8",
+    "analysisSummary": "https://iyfuxdiufpbmcdblniai.supabase.co/storage/v1/object/sign/packets/f928126a-5764-463a-9bc3-afac7c439956/2_Your_Analysis_Summary.pdf?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV83MGEzNmI2ZS0zYjU4LTQ2YmItOTRmYy1iNzMzMTNlZjJhYjQiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwYWNrZXRzL2Y5MjgxMjZhLTU3NjQtNDYzYS05YmMzLWFmYWM3YzQzOTk1Ni8yX1lvdXJfQW5hbHlzaXNfU3VtbWFyeS5wZGYiLCJpYXQiOjE3NzI3NDM2MjMsImV4cCI6MTc3NTMzNTYyM30.fekdMq6W_-5xW-4nLJOB4TIgMeNl3jtPa2VS0E3eAv0"
+  },
+  "generationTimeMs": 42097
+}

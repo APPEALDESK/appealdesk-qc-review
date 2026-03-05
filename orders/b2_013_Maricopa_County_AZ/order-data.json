@@ -1,0 +1,14 @@
+{
+  "orderId": "af8a3367-3ac2-43bd-b4ba-63da3ab1f386",
+  "address": "Mesa, AZ 85213, USA",
+  "county": "Maricopa County",
+  "state": "AZ",
+  "status": "failed",
+  "recommendation": null,
+  "packetType": "full",
+  "valuation": {},
+  "assessment": {},
+  "compsCount": 0,
+  "docUrls": {},
+  "generationTimeMs": null
+}

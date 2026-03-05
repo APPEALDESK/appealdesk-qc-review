@@ -1,0 +1,14 @@
+{
+  "orderId": "76344f88-c2db-4521-baa1-8e3d312d2a50",
+  "address": "3836 Gargac Ln, Granite City, IL 62040, USA",
+  "county": "Madison County",
+  "state": "IL",
+  "status": "quality_gate_failed",
+  "recommendation": null,
+  "packetType": "full",
+  "valuation": {},
+  "assessment": {},
+  "compsCount": 0,
+  "docUrls": {},
+  "generationTimeMs": null
+}
