@@ -1,9 +1,9 @@
 # Batch50 Run 3 -- CCP-0306 Batch
 
 **Date:** 2026-03-06
-**Total orders:** 31
+**Total orders:** 35
 **Completed:** 17
-**Still processing:** 4
+**Still processing:** 5
 **Failed:** 0
 
 ## Orders
@@ -40,4 +40,8 @@
 | 28 | ND | 204 Lake Street, Mandan, ND | do_not_appeal | do_not_appeal | - |
 | 29 | NE | 4125 North 23rd Street, Lincoln, NE | processing | lite_qg_fallback | - |
 | 30 | NH | 333 Dover Point Road, Dover, NH | completed | full | - |
-| 31 | NJ | 31 Hewitt Road, West Milford, NJ | processing | - | confidence_gate_block |
+| 31 | NJ | 31 Hewitt Road, West Milford, NJ | processing | lite_qg_fallback | confidence_gate_block |
+| 32 | NM | 115 Pine Hill Trail, Alto, NM | do_not_appeal | do_not_appeal | confidence_gate_block |
+| 33 | NV | 3951 West Blosser Ranch Road, Pahrump, NV | do_not_appeal | do_not_appeal | confidence_gate_block |
+| 34 | NY | 4 Robyn Drive, Monroe, NY | do_not_appeal | do_not_appeal | - |
+| 35 | OH | 3975 East 64th Street, Cleveland, OH | processing | - | - |

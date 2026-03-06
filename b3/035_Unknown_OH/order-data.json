@@ -1,0 +1,11 @@
+{
+  "orderId": "ea037ba2-f8f7-4e46-932b-d9e50828135e",
+  "address": "3975 East 64th Street, Cleveland, OH",
+  "county": null,
+  "state": "OH",
+  "status": "processing",
+  "recommendation": null,
+  "packetType": null,
+  "gateReason": null,
+  "errorMessage": null
+}

@@ -510,10 +510,74 @@
     "state": "NJ",
     "status": "processing",
     "recommendation": null,
-    "packetType": null,
+    "packetType": "lite_qg_fallback",
     "gateReason": "confidence_gate_block",
     "errorMessage": null,
     "folder": "031_Unknown_NJ",
+    "pdfs": []
+  },
+  {
+    "orderId": "9277caf0-5122-4afc-b286-8dde6cbcc97b",
+    "address": "115 Pine Hill Trail, Alto, NM",
+    "county": "Lincoln",
+    "state": "NM",
+    "status": "do_not_appeal",
+    "recommendation": null,
+    "packetType": "do_not_appeal",
+    "gateReason": "confidence_gate_block",
+    "errorMessage": null,
+    "folder": "032_Lincoln_NM",
+    "pdfs": [
+      "1_Your_Evidence_Packet.pdf",
+      "2_Your_Analysis_Summary.pdf",
+      "3_Homeowner_Savings_Guide.pdf"
+    ]
+  },
+  {
+    "orderId": "e28ecb44-f967-4fdd-bcde-ed90dd4bba2e",
+    "address": "3951 West Blosser Ranch Road, Pahrump, NV",
+    "county": null,
+    "state": "NV",
+    "status": "do_not_appeal",
+    "recommendation": null,
+    "packetType": "do_not_appeal",
+    "gateReason": "confidence_gate_block",
+    "errorMessage": null,
+    "folder": "033_Unknown_NV",
+    "pdfs": [
+      "1_Your_Evidence_Packet.pdf",
+      "2_Your_Analysis_Summary.pdf",
+      "3_Homeowner_Savings_Guide.pdf"
+    ]
+  },
+  {
+    "orderId": "9d96e392-d840-416e-be22-c0e3acec52fa",
+    "address": "4 Robyn Drive, Monroe, NY",
+    "county": null,
+    "state": "NY",
+    "status": "do_not_appeal",
+    "recommendation": null,
+    "packetType": "do_not_appeal",
+    "gateReason": null,
+    "errorMessage": null,
+    "folder": "034_Unknown_NY",
+    "pdfs": [
+      "1_Your_Evidence_Packet.pdf",
+      "2_Your_Analysis_Summary.pdf",
+      "3_Homeowner_Savings_Guide.pdf"
+    ]
+  },
+  {
+    "orderId": "ea037ba2-f8f7-4e46-932b-d9e50828135e",
+    "address": "3975 East 64th Street, Cleveland, OH",
+    "county": null,
+    "state": "OH",
+    "status": "processing",
+    "recommendation": null,
+    "packetType": null,
+    "gateReason": null,
+    "errorMessage": null,
+    "folder": "035_Unknown_OH",
     "pdfs": []
   }
 ]

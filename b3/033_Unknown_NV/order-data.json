@@ -1,0 +1,11 @@
+{
+  "orderId": "e28ecb44-f967-4fdd-bcde-ed90dd4bba2e",
+  "address": "3951 West Blosser Ranch Road, Pahrump, NV",
+  "county": null,
+  "state": "NV",
+  "status": "do_not_appeal",
+  "recommendation": null,
+  "packetType": "do_not_appeal",
+  "gateReason": "confidence_gate_block",
+  "errorMessage": null
+}
