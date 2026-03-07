@@ -1,6 +1,0 @@
-{
-  "orderId": "e418bd7c-4593-4a30-907f-1d320c706b61",
-  "address": "56 Chelsea Rd, Bradford, VT 05033, USA",
-  "error": "Supabase upload failed: Upload failed: fetch failed",
-  "stack": "Error: Supabase upload failed: Upload failed: fetch failed\n    at generatePacketCore (C:\\Users\\travi\\Downloads\\appealdesk-site\\appealdesk-site\\app\\lib\\generatePacketCore.js:2945:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async main (C:\\Users\\travi\\Downloads\\appealdesk-site\\appealdesk-site\\scripts\\qc-batch50-public.mjs:405:22)"
-}

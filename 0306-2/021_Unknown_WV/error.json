@@ -1,6 +1,0 @@
-{
-  "orderId": "33314173-1bd6-40c1-8df4-49af03d8abd3",
-  "address": "20 Waterfront Way, Horner, WV 26372, USA",
-  "error": "Supabase upload failed: Upload failed: fetch failed",
-  "stack": "Error: Supabase upload failed: Upload failed: fetch failed\n    at generatePacketCore (C:\\Users\\travi\\Downloads\\appealdesk-site\\appealdesk-site\\app\\lib\\generatePacketCore.js:3341:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async main (C:\\Users\\travi\\Downloads\\appealdesk-site\\appealdesk-site\\scripts\\qc-batch50-public.mjs:405:22)"
-}

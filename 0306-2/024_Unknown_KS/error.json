@@ -1,6 +1,0 @@
-{
-  "orderId": "1aaf4a7d-867e-4db8-ab21-351aa4e7de39",
-  "address": "1752 S Palisade St, Wichita, KS 67213, USA",
-  "error": "Supabase upload failed: Upload failed: fetch failed",
-  "stack": "Error: Supabase upload failed: Upload failed: fetch failed\n    at generatePacketCore (C:\\Users\\travi\\Downloads\\appealdesk-site\\appealdesk-site\\app\\lib\\generatePacketCore.js:3341:13)\n    at async main (C:\\Users\\travi\\Downloads\\appealdesk-site\\appealdesk-site\\scripts\\qc-batch50-public.mjs:405:22)"
-}

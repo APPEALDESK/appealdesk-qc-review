@@ -1,6 +1,0 @@
-{
-  "orderId": "7af5415f-8177-4552-a09d-ac3943e3b675",
-  "address": "660 Baker Rd, Satsuma, AL 36572, USA",
-  "error": "Supabase upload failed: Upload failed: fetch failed",
-  "stack": "Error: Supabase upload failed: Upload failed: fetch failed\n    at generatePacketCore (C:\\Users\\travi\\Downloads\\appealdesk-site\\appealdesk-site\\app\\lib\\generatePacketCore.js:3341:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async main (C:\\Users\\travi\\Downloads\\appealdesk-site\\appealdesk-site\\scripts\\qc-batch50-public.mjs:405:22)"
-}

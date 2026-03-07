@@ -1,6 +1,0 @@
-{
-  "orderId": "f9fedb90-f2e2-4e3a-8da1-339437dbe6dc",
-  "address": "2272 Fuller Mountain Rd, North Ferrisburgh, VT 05473, USA",
-  "error": "Supabase upload failed: Upload failed: fetch failed",
-  "stack": "Error: Supabase upload failed: Upload failed: fetch failed\n    at generatePacketCore (C:\\Users\\travi\\Downloads\\appealdesk-site\\appealdesk-site\\app\\lib\\generatePacketCore.js:3087:13)\n    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)\n    at async main (C:\\Users\\travi\\Downloads\\appealdesk-site\\appealdesk-site\\scripts\\qc-batch50-public.mjs:405:22)"
-}
